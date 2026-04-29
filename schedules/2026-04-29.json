@@ -2,12 +2,12 @@
   "start": "21:00",
   "rows": [
     {
-      "task": "Review Michelles work",
-      "dur": 60
-    },
-    {
       "task": "",
       "dur": 30
+    },
+    {
+      "task": "Review Michelles work",
+      "dur": 60
     }
   ]
 }
