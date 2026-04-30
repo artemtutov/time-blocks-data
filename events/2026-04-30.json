@@ -42,5 +42,15 @@
     "dur": 30,
     "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
     "index": 2
+  },
+  {
+    "ts": 1777540488326,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "22ae351d-a061-43ae-be76-a5ebdf46520a",
+    "field": "task",
+    "before": "",
+    "after": "Spain plan",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993"
   }
 ]
