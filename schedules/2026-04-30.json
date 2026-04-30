@@ -44,6 +44,11 @@
           "id": "364dde43-62f4-4f96-8274-32791b0e85ff",
           "task": "Build market home",
           "dur": 30
+        },
+        {
+          "id": "0fa26f69-105e-44b1-8ca2-6800305839f7",
+          "task": "",
+          "dur": 30
         }
       ]
     }
