@@ -8,6 +8,10 @@
     {
       "task": "Look at tasks",
       "dur": 30
+    },
+    {
+      "task": "",
+      "dur": 30
     }
   ]
 }
