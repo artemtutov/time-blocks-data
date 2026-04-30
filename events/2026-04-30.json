@@ -81,5 +81,14 @@
     "from": 3,
     "to": 5,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540621341,
+    "date": "2026-04-30",
+    "type": "task_moved",
+    "taskId": "a3864e4b-b769-4138-8d63-009aff12a7f1",
+    "from": 3,
+    "to": 4,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
   }
 ]
