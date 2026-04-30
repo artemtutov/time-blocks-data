@@ -25,17 +25,12 @@
         {
           "id": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
           "task": "Rest",
-          "dur": 15
+          "dur": 30
         },
         {
           "task": "Do Chad",
           "dur": 120,
           "id": "57fcd48e-3413-471d-9036-868b8b26da9d"
-        },
-        {
-          "task": "Lunch",
-          "dur": 30,
-          "id": "a3864e4b-b769-4138-8d63-009aff12a7f1"
         },
         {
           "task": "Design review, notes, questions,",
