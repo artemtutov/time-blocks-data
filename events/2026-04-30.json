@@ -14,5 +14,13 @@
     "type": "zone_added",
     "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
     "start": "16:15"
+  },
+  {
+    "ts": 1777540418729,
+    "date": "2026-04-30",
+    "type": "zone_start_changed",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
+    "before": "16:15",
+    "after": "17:00"
   }
 ]
