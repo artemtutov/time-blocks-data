@@ -294,5 +294,15 @@
     "taskId": "57fcd48e-3413-471d-9036-868b8b26da9d",
     "dur": 180,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777564197699,
+    "date": "2026-04-30",
+    "type": "task_deleted",
+    "taskId": "64841dad-5ce7-4891-b7a7-74d2cfbe50ed",
+    "task": "",
+    "dur": 30,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25",
+    "index": 5
   }
 ]
