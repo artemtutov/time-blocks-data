@@ -120,5 +120,12 @@
     "before": 30,
     "after": 15,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540638769,
+    "date": "2026-04-30",
+    "type": "task_completed",
+    "taskId": "c9bde5c6-fe3c-4e83-9ead-1c63e996affa",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
   }
 ]
