@@ -207,5 +207,25 @@
     "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
     "dur": 30,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777554716921,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "1e99feb8-ad2d-4156-8e93-461085be92fd",
+    "field": "task",
+    "before": "Design review, notes, questions,",
+    "after": "",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777554717000,
+    "date": "2026-04-30",
+    "type": "task_deleted",
+    "taskId": "1e99feb8-ad2d-4156-8e93-461085be92fd",
+    "task": "",
+    "dur": 60,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25",
+    "index": 5
   }
 ]
