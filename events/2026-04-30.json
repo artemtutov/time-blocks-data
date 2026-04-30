@@ -147,5 +147,13 @@
     "before": "Design review",
     "after": "Design review, notes, questions,",
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777543642351,
+    "date": "2026-04-30",
+    "type": "task_started",
+    "taskId": "d1244af9-5f29-498f-ab1a-4f3e95249036",
+    "dur": 120,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
   }
 ]
