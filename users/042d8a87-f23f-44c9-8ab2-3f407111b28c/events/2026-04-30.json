@@ -1,0 +1,183 @@
+[
+  {
+    "ts": 1777540217270,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "c9bde5c6-fe3c-4e83-9ead-1c63e996affa",
+    "field": "dur",
+    "before": 60,
+    "after": 90
+  },
+  {
+    "ts": 1777540413405,
+    "date": "2026-04-30",
+    "type": "zone_added",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
+    "start": "16:15"
+  },
+  {
+    "ts": 1777540418729,
+    "date": "2026-04-30",
+    "type": "zone_start_changed",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
+    "before": "16:15",
+    "after": "17:00"
+  },
+  {
+    "ts": 1777540446325,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "0fa26f69-105e-44b1-8ca2-6800305839f7",
+    "field": "task",
+    "before": "",
+    "after": "Review Michelles work",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993"
+  },
+  {
+    "ts": 1777540482457,
+    "date": "2026-04-30",
+    "type": "task_added",
+    "taskId": "22ae351d-a061-43ae-be76-a5ebdf46520a",
+    "task": "",
+    "dur": 30,
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
+    "index": 2
+  },
+  {
+    "ts": 1777540488326,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "22ae351d-a061-43ae-be76-a5ebdf46520a",
+    "field": "task",
+    "before": "",
+    "after": "Spain plan",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993"
+  },
+  {
+    "ts": 1777540510320,
+    "date": "2026-04-30",
+    "type": "task_added",
+    "taskId": "d9d1d1d6-20e4-461d-80cf-5b5857e9a661",
+    "task": "",
+    "dur": 30,
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
+    "index": 3
+  },
+  {
+    "ts": 1777540520724,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "d9d1d1d6-20e4-461d-80cf-5b5857e9a661",
+    "field": "task",
+    "before": "",
+    "after": "Морковь",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993"
+  },
+  {
+    "ts": 1777540613164,
+    "date": "2026-04-30",
+    "type": "task_moved",
+    "taskId": "1e99feb8-ad2d-4156-8e93-461085be92fd",
+    "from": 3,
+    "to": 5,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540621341,
+    "date": "2026-04-30",
+    "type": "task_moved",
+    "taskId": "a3864e4b-b769-4138-8d63-009aff12a7f1",
+    "from": 3,
+    "to": 4,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540624738,
+    "date": "2026-04-30",
+    "type": "task_added",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "task": "",
+    "dur": 30,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25",
+    "index": 3
+  },
+  {
+    "ts": 1777540630606,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "field": "task",
+    "before": "",
+    "after": "Rest",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540633314,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "field": "dur",
+    "before": 30,
+    "after": 15,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540638769,
+    "date": "2026-04-30",
+    "type": "task_completed",
+    "taskId": "c9bde5c6-fe3c-4e83-9ead-1c63e996affa",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777542845735,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "f4023d92-adab-4960-b0d9-d67ffd35ed21",
+    "field": "dur",
+    "before": 15,
+    "after": 30,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777543541506,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "1e99feb8-ad2d-4156-8e93-461085be92fd",
+    "field": "task",
+    "before": "Design review",
+    "after": "Design review, notes, questions,",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777543642351,
+    "date": "2026-04-30",
+    "type": "task_started",
+    "taskId": "d1244af9-5f29-498f-ab1a-4f3e95249036",
+    "dur": 120,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777547808520,
+    "date": "2026-04-30",
+    "type": "task_completed",
+    "taskId": "f4023d92-adab-4960-b0d9-d67ffd35ed21",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777554531857,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "d1244af9-5f29-498f-ab1a-4f3e95249036",
+    "field": "dur",
+    "before": 120,
+    "after": 180,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777554534130,
+    "date": "2026-04-30",
+    "type": "task_completed",
+    "taskId": "d1244af9-5f29-498f-ab1a-4f3e95249036",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  }
+]
