@@ -12,6 +12,10 @@
     {
       "task": "Design review",
       "dur": 60
+    },
+    {
+      "task": "Do Hamnant",
+      "dur": 30
     }
   ]
 }
