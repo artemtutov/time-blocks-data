@@ -4,6 +4,10 @@
     {
       "task": "Add events",
       "dur": 30
+    },
+    {
+      "task": "Look at tasks",
+      "dur": 30
     }
   ]
 }
