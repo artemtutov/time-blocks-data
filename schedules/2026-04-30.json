@@ -20,6 +20,10 @@
     {
       "task": "Lunch",
       "dur": 30
+    },
+    {
+      "task": "Do Chad",
+      "dur": 30
     }
   ]
 }
