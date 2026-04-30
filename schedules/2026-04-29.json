@@ -1,13 +1,20 @@
 {
-  "start": "21:00",
-  "rows": [
+  "zones": [
     {
-      "task": "",
-      "dur": 30
-    },
-    {
-      "task": "Review Michelles work",
-      "dur": 60
+      "id": "227107cb-114e-483e-b9ea-103d1ba42ea7",
+      "start": "21:00",
+      "rows": [
+        {
+          "task": "",
+          "dur": 30,
+          "id": "7f7bd83d-c025-4afe-93c8-05492d3c54bb"
+        },
+        {
+          "task": "Review Michelles work",
+          "dur": 60,
+          "id": "47c87a12-f6dc-419a-9109-53d557538c7c"
+        }
+      ]
     }
   ]
 }
