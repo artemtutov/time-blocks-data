@@ -10,12 +10,12 @@
       "dur": 30
     },
     {
-      "task": "Design review",
-      "dur": 60
-    },
-    {
       "task": "Do Hamnant",
       "dur": 120
+    },
+    {
+      "task": "Design review",
+      "dur": 60
     },
     {
       "task": "Lunch",
