@@ -62,6 +62,11 @@
           "id": "d9d1d1d6-20e4-461d-80cf-5b5857e9a661",
           "task": "Морковь",
           "dur": 30
+        },
+        {
+          "id": "93d1937f-2e7c-4400-a231-81305d74028b",
+          "task": "Design review, notes, questions,",
+          "dur": 30
         }
       ]
     }
