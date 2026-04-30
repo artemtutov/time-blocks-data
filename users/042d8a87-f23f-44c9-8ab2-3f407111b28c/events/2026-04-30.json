@@ -267,5 +267,24 @@
     "before": "",
     "after": "Design review, notes, questions,",
     "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993"
+  },
+  {
+    "ts": 1777554742051,
+    "date": "2026-04-30",
+    "type": "task_moved",
+    "taskId": "93d1937f-2e7c-4400-a231-81305d74028b",
+    "from": 4,
+    "to": 0,
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993"
+  },
+  {
+    "ts": 1777557809150,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
   }
 ]
