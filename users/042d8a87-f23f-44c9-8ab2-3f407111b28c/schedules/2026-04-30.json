@@ -31,6 +31,11 @@
           "task": "Do Chad",
           "dur": 180,
           "id": "57fcd48e-3413-471d-9036-868b8b26da9d"
+        },
+        {
+          "id": "64841dad-5ce7-4891-b7a7-74d2cfbe50ed",
+          "task": "",
+          "dur": 30
         }
       ]
     },
