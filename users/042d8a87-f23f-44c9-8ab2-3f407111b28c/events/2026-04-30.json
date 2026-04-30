@@ -199,5 +199,13 @@
     "dur": 30,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25",
     "index": 5
+  },
+  {
+    "ts": 1777554690589,
+    "date": "2026-04-30",
+    "type": "task_started",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "dur": 30,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
   }
 ]
