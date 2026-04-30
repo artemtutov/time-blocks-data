@@ -19,7 +19,8 @@
         {
           "task": "Do Hamnant",
           "dur": 180,
-          "id": "d1244af9-5f29-498f-ab1a-4f3e95249036"
+          "id": "d1244af9-5f29-498f-ab1a-4f3e95249036",
+          "done": true
         },
         {
           "id": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
