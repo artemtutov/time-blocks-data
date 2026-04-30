@@ -189,5 +189,15 @@
     "before": 15,
     "after": 30,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777554580240,
+    "date": "2026-04-30",
+    "type": "task_deleted",
+    "taskId": "a3864e4b-b769-4138-8d63-009aff12a7f1",
+    "task": "Lunch",
+    "dur": 30,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25",
+    "index": 5
   }
 ]
