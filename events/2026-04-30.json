@@ -1,0 +1,18 @@
+[
+  {
+    "ts": 1777540217270,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "c9bde5c6-fe3c-4e83-9ead-1c63e996affa",
+    "field": "dur",
+    "before": 60,
+    "after": 90
+  },
+  {
+    "ts": 1777540413405,
+    "date": "2026-04-30",
+    "type": "zone_added",
+    "zoneId": "d46408b1-ca14-4746-be33-c64f2be22993",
+    "start": "16:15"
+  }
+]
