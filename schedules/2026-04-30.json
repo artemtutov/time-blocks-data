@@ -49,6 +49,11 @@
           "id": "0fa26f69-105e-44b1-8ca2-6800305839f7",
           "task": "Review Michelles work",
           "dur": 30
+        },
+        {
+          "id": "22ae351d-a061-43ae-be76-a5ebdf46520a",
+          "task": "Spain plan",
+          "dur": 30
         }
       ]
     }
