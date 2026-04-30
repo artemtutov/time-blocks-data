@@ -90,5 +90,25 @@
     "from": 3,
     "to": 4,
     "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
+  },
+  {
+    "ts": 1777540624738,
+    "date": "2026-04-30",
+    "type": "task_added",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "task": "",
+    "dur": 30,
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25",
+    "index": 3
+  },
+  {
+    "ts": 1777540630606,
+    "date": "2026-04-30",
+    "type": "task_edited",
+    "taskId": "ea2048db-8bbb-457e-acbb-11b8d02fc3aa",
+    "field": "task",
+    "before": "",
+    "after": "Rest",
+    "zoneId": "c33d3d0f-d1d8-43a5-8b7c-2ee1bab1ee25"
   }
 ]
