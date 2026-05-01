@@ -13,6 +13,11 @@
           "task": "Build market home",
           "dur": 360,
           "id": "e99a1246-4e6e-4b7b-854c-9acf1ef78144"
+        },
+        {
+          "id": "a670d0a8-a85c-41c5-b81a-36823a61006e",
+          "task": "",
+          "dur": 30
         }
       ]
     }
