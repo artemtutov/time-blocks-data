@@ -5,14 +5,14 @@
       "start": "09:00",
       "rows": [
         {
+          "id": "6f70a29a-6f29-49ee-ad94-f1c88433c78d",
+          "task": "Building Ptuch",
+          "dur": 90
+        },
+        {
           "task": "Build market home",
           "dur": 30,
           "id": "e99a1246-4e6e-4b7b-854c-9acf1ef78144"
-        },
-        {
-          "id": "6f70a29a-6f29-49ee-ad94-f1c88433c78d",
-          "task": "Building Ptuch",
-          "dur": 30
         }
       ]
     }
