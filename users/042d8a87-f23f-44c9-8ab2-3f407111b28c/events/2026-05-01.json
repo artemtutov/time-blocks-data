@@ -28,5 +28,15 @@
     "before": "",
     "after": "Building Ptuch",
     "zoneId": "d7e9e6b4-ecb7-40e2-b897-79a9d5e1b142"
+  },
+  {
+    "ts": 1777626025559,
+    "date": "2026-05-01",
+    "type": "task_edited",
+    "taskId": "6f70a29a-6f29-49ee-ad94-f1c88433c78d",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "d7e9e6b4-ecb7-40e2-b897-79a9d5e1b142"
   }
 ]
