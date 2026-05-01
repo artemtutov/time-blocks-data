@@ -58,7 +58,8 @@
         {
           "id": "22ae351d-a061-43ae-be76-a5ebdf46520a",
           "task": "Spain plan",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "d9d1d1d6-20e4-461d-80cf-5b5857e9a661",
