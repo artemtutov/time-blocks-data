@@ -8,5 +8,25 @@
     "before": "",
     "after": "Build market home",
     "zoneId": "d7e9e6b4-ecb7-40e2-b897-79a9d5e1b142"
+  },
+  {
+    "ts": 1777626017000,
+    "date": "2026-05-01",
+    "type": "task_added",
+    "taskId": "6f70a29a-6f29-49ee-ad94-f1c88433c78d",
+    "task": "",
+    "dur": 30,
+    "zoneId": "d7e9e6b4-ecb7-40e2-b897-79a9d5e1b142",
+    "index": 1
+  },
+  {
+    "ts": 1777626023703,
+    "date": "2026-05-01",
+    "type": "task_edited",
+    "taskId": "6f70a29a-6f29-49ee-ad94-f1c88433c78d",
+    "field": "task",
+    "before": "",
+    "after": "Building Ptuch",
+    "zoneId": "d7e9e6b4-ecb7-40e2-b897-79a9d5e1b142"
   }
 ]
