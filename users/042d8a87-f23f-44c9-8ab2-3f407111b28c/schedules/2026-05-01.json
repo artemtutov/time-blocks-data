@@ -7,12 +7,14 @@
         {
           "id": "6f70a29a-6f29-49ee-ad94-f1c88433c78d",
           "task": "Building Ptuch",
-          "dur": 230
+          "dur": 230,
+          "done": true
         },
         {
           "task": "Build market home",
           "dur": 240,
-          "id": "e99a1246-4e6e-4b7b-854c-9acf1ef78144"
+          "id": "e99a1246-4e6e-4b7b-854c-9acf1ef78144",
+          "done": true
         },
         {
           "id": "a670d0a8-a85c-41c5-b81a-36823a61006e",
