@@ -1,0 +1,15 @@
+{
+  "zones": [
+    {
+      "id": "43af8cb0-2a5c-42e4-bd5e-63ec021db554",
+      "start": "11:30",
+      "rows": [
+        {
+          "id": "55ab107a-52b4-402f-a6ce-fb971e429d3d",
+          "task": "relax",
+          "dur": 30
+        }
+      ]
+    }
+  ]
+}
