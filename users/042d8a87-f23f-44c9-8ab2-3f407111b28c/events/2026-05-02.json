@@ -6,5 +6,13 @@
     "zoneId": "43af8cb0-2a5c-42e4-bd5e-63ec021db554",
     "before": "09:00",
     "after": "11:00"
+  },
+  {
+    "ts": 1777717749174,
+    "date": "2026-05-02",
+    "type": "zone_start_changed",
+    "zoneId": "43af8cb0-2a5c-42e4-bd5e-63ec021db554",
+    "before": "11:00",
+    "after": "11:30"
   }
 ]
