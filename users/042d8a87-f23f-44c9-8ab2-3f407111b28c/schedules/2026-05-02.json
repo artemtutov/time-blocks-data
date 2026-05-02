@@ -8,6 +8,11 @@
           "id": "55ab107a-52b4-402f-a6ce-fb971e429d3d",
           "task": "relax",
           "dur": 30
+        },
+        {
+          "id": "fc45a9a8-6a62-4a3b-9b9b-98c3a6dc83a5",
+          "task": "do macro",
+          "dur": 30
         }
       ]
     }
