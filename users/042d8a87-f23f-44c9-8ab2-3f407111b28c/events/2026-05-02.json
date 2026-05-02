@@ -14,5 +14,25 @@
     "zoneId": "43af8cb0-2a5c-42e4-bd5e-63ec021db554",
     "before": "11:00",
     "after": "11:30"
+  },
+  {
+    "ts": 1777717754633,
+    "date": "2026-05-02",
+    "type": "task_edited",
+    "taskId": "55ab107a-52b4-402f-a6ce-fb971e429d3d",
+    "field": "task",
+    "before": "",
+    "after": "relax",
+    "zoneId": "43af8cb0-2a5c-42e4-bd5e-63ec021db554"
+  },
+  {
+    "ts": 1777717754634,
+    "date": "2026-05-02",
+    "type": "task_added",
+    "taskId": "fc45a9a8-6a62-4a3b-9b9b-98c3a6dc83a5",
+    "task": "",
+    "dur": 30,
+    "zoneId": "43af8cb0-2a5c-42e4-bd5e-63ec021db554",
+    "index": 1
   }
 ]
