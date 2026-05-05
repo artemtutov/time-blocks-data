@@ -12,16 +12,16 @@
         {
           "id": "085b8b84-636c-48af-a935-94fd70a4735e",
           "task": "Check M&A model. \n- what it needed\n- check other models\n\nPlan how to update. Describe",
-          "dur": 90
-        },
-        {
-          "id": "e414a1b4-b813-4707-8c78-adb917d0c45e",
-          "task": "Do the model",
-          "dur": 30
+          "dur": 120
         },
         {
           "id": "33282a7d-b9ff-4016-8a88-5e278d4df989",
           "task": "Send update",
+          "dur": 30
+        },
+        {
+          "id": "e414a1b4-b813-4707-8c78-adb917d0c45e",
+          "task": "Do the model",
           "dur": 30
         },
         {
