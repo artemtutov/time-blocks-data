@@ -419,5 +419,14 @@
     "before": "",
     "after": "Lunch",
     "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777984643351,
+    "date": "2026-05-05",
+    "type": "task_moved",
+    "taskId": "4c61bcac-5271-4e61-acb6-fac895a73a8c",
+    "from": 5,
+    "to": 4,
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
   }
 ]
