@@ -64,7 +64,7 @@
       "rows": [
         {
           "id": "c1b902a0-2628-4a91-8d65-20f8a738b1d3",
-          "task": "M&A check\n- if IB\n- if can be updated\n- clean comments\n- see if can be ",
+          "task": "M&A check\n- if IB\n- if can be updated\n- clean comments\n- see if can be run via LLM for checks",
           "dur": 30
         }
       ]
