@@ -13,6 +13,11 @@
           "id": "085b8b84-636c-48af-a935-94fd70a4735e",
           "task": "Check M&A model",
           "dur": 30
+        },
+        {
+          "id": "ca580b05-dbe9-4029-be6b-b430b32838c6",
+          "task": "",
+          "dur": 30
         }
       ]
     }
