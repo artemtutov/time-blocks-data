@@ -6,7 +6,12 @@
       "rows": [
         {
           "id": "43638445-f6c8-411b-abe5-26fed47eb2b1",
-          "task": "Taxonomy",
+          "task": "Taxonomy. Possible types",
+          "dur": 30
+        },
+        {
+          "id": "085b8b84-636c-48af-a935-94fd70a4735e",
+          "task": "",
           "dur": 30
         }
       ]
