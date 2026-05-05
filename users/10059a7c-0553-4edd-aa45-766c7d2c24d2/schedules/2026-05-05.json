@@ -10,6 +10,11 @@
           "dur": 60
         },
         {
+          "id": "ca580b05-dbe9-4029-be6b-b430b32838c6",
+          "task": "? see if you can find SO, other models ",
+          "dur": 30
+        },
+        {
           "id": "085b8b84-636c-48af-a935-94fd70a4735e",
           "task": "Check M&A model. \n- what it needed\n- check other models\n\nPlan how to update. Describe",
           "dur": 120
@@ -25,8 +30,8 @@
           "dur": 30
         },
         {
-          "id": "ca580b05-dbe9-4029-be6b-b430b32838c6",
-          "task": "? see if you can find SO, other models ",
+          "id": "4c61bcac-5271-4e61-acb6-fac895a73a8c",
+          "task": "Lunch",
           "dur": 30
         }
       ]
