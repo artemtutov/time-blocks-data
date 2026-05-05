@@ -468,5 +468,35 @@
     "before": "Do the model",
     "after": "Do the model update",
     "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777990894480,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "4c61bcac-5271-4e61-acb6-fac895a73a8c",
+    "field": "dur",
+    "before": 60,
+    "after": 90,
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777990902352,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "e414a1b4-b813-4707-8c78-adb917d0c45e",
+    "field": "dur",
+    "before": 120,
+    "after": 60,
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777990911250,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "e414a1b4-b813-4707-8c78-adb917d0c45e",
+    "field": "dur",
+    "before": 60,
+    "after": 30,
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
   }
 ]
