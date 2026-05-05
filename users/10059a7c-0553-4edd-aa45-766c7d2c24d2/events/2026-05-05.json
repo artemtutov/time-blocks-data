@@ -68,5 +68,15 @@
     "before": "Check M&A model",
     "after": "Check M&A model. Plan how to update",
     "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777967309522,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "43638445-f6c8-411b-abe5-26fed47eb2b1",
+    "field": "task",
+    "before": "Taxonomy. Possible types",
+    "after": "Taxonomy. Possible types. Day plan",
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
   }
 ]
