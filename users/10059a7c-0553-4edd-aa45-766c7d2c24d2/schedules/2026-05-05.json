@@ -25,13 +25,18 @@
           "dur": 30
         },
         {
-          "id": "e414a1b4-b813-4707-8c78-adb917d0c45e",
-          "task": "Do the model",
-          "dur": 30
-        },
-        {
           "id": "4c61bcac-5271-4e61-acb6-fac895a73a8c",
           "task": "Lunch",
+          "dur": 60
+        },
+        {
+          "id": "e414a1b4-b813-4707-8c78-adb917d0c45e",
+          "task": "Do the model",
+          "dur": 120
+        },
+        {
+          "id": "9d783b12-269a-4603-b945-0eee0378d37e",
+          "task": "",
           "dur": 30
         }
       ]
