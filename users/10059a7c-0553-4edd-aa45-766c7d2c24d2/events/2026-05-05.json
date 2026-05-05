@@ -218,5 +218,15 @@
     "dur": 30,
     "zoneId": "ada333bc-7a18-40c6-b3d5-2d8f05659311",
     "index": 3
+  },
+  {
+    "ts": 1777967535280,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "1652cd1f-d3ec-487b-9e4d-c4893d90d92c",
+    "field": "task",
+    "before": "",
+    "after": "Big question",
+    "zoneId": "ada333bc-7a18-40c6-b3d5-2d8f05659311"
   }
 ]
