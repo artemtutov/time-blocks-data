@@ -256,5 +256,13 @@
     "before": "",
     "after": "Go to post",
     "zoneId": "2557dcd7-5dda-4ee4-ae1b-19d208199ee5"
+  },
+  {
+    "ts": 1777971297384,
+    "date": "2026-05-05",
+    "type": "zone_start_changed",
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f",
+    "before": "09:00",
+    "after": "10:00"
   }
 ]
