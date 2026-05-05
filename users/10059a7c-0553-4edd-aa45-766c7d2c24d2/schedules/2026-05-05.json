@@ -38,7 +38,17 @@
       "rows": [
         {
           "id": "c74ff484-cba6-4601-a8d2-fe6e3c5effa0",
-          "task": "GR",
+          "task": "Tue - GR",
+          "dur": 30
+        },
+        {
+          "id": "5e85dd1a-ade9-47b5-ac69-aa091928f021",
+          "task": "Wed - Rub",
+          "dur": 30
+        },
+        {
+          "id": "0870cf02-02e2-48de-921e-ed658f93e4cc",
+          "task": "Thur Q&A",
           "dur": 30
         }
       ]
