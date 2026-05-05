@@ -32,11 +32,16 @@
         {
           "id": "e414a1b4-b813-4707-8c78-adb917d0c45e",
           "task": "Do the model update",
-          "dur": 60
+          "dur": 30
         },
         {
           "id": "9d783b12-269a-4603-b945-0eee0378d37e",
-          "task": "",
+          "task": "Lunch",
+          "dur": 30
+        },
+        {
+          "id": "b8dc2e9f-254c-4d94-a48f-34e861a4b13c",
+          "task": "Model update",
           "dur": 30
         }
       ]
