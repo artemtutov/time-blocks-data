@@ -16,7 +16,12 @@
         },
         {
           "id": "e414a1b4-b813-4707-8c78-adb917d0c45e",
-          "task": "Do",
+          "task": "Do the model",
+          "dur": 30
+        },
+        {
+          "id": "33282a7d-b9ff-4016-8a88-5e278d4df989",
+          "task": "Send update",
           "dur": 30
         },
         {
