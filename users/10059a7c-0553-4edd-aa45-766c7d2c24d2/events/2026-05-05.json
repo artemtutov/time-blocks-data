@@ -78,5 +78,65 @@
     "before": "Taxonomy. Possible types",
     "after": "Taxonomy. Possible types. Day plan",
     "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777967318326,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "ca580b05-dbe9-4029-be6b-b430b32838c6",
+    "field": "task",
+    "before": "",
+    "after": "? see if you can",
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777967318423,
+    "date": "2026-05-05",
+    "type": "zone_added",
+    "zoneId": "2557dcd7-5dda-4ee4-ae1b-19d208199ee5",
+    "start": "10:15"
+  },
+  {
+    "ts": 1777967326621,
+    "date": "2026-05-05",
+    "type": "zone_start_changed",
+    "zoneId": "2557dcd7-5dda-4ee4-ae1b-19d208199ee5",
+    "before": "10:15",
+    "after": "20:00"
+  },
+  {
+    "ts": 1777967327448,
+    "date": "2026-05-05",
+    "type": "zone_added",
+    "zoneId": "ada333bc-7a18-40c6-b3d5-2d8f05659311",
+    "start": "20:30"
+  },
+  {
+    "ts": 1777967329705,
+    "date": "2026-05-05",
+    "type": "zone_start_changed",
+    "zoneId": "ada333bc-7a18-40c6-b3d5-2d8f05659311",
+    "before": "20:30",
+    "after": "23:00"
+  },
+  {
+    "ts": 1777967342106,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "c74ff484-cba6-4601-a8d2-fe6e3c5effa0",
+    "field": "task",
+    "before": "",
+    "after": "Tue -GR",
+    "zoneId": "ada333bc-7a18-40c6-b3d5-2d8f05659311"
+  },
+  {
+    "ts": 1777967342107,
+    "date": "2026-05-05",
+    "type": "task_added",
+    "taskId": "5e85dd1a-ade9-47b5-ac69-aa091928f021",
+    "task": "",
+    "dur": 30,
+    "zoneId": "ada333bc-7a18-40c6-b3d5-2d8f05659311",
+    "index": 1
   }
 ]
