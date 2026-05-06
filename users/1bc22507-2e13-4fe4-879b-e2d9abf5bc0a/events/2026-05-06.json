@@ -163,5 +163,12 @@
     "before": 30,
     "after": 75,
     "zoneId": "f6e4dc8d-1644-4fa4-b66a-318262ad60bb"
+  },
+  {
+    "ts": 1778058736034,
+    "date": "2026-05-06",
+    "type": "zone_added",
+    "zoneId": "d577a916-8d49-40ba-a632-1aaf08f8c4f1",
+    "start": "12:15"
   }
 ]
