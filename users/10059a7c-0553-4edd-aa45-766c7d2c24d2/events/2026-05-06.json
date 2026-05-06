@@ -91,5 +91,25 @@
     "before": 60,
     "after": 90,
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778056834790,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "6fad69be-91c0-4a89-b661-0cfc83f7762d",
+    "field": "task",
+    "before": "",
+    "after": "Calendar",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778056834790,
+    "date": "2026-05-06",
+    "type": "task_added",
+    "taskId": "a5c7af4a-1b82-4b32-b67a-8804aaab9491",
+    "task": "",
+    "dur": 30,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
+    "index": 3
   }
 ]
