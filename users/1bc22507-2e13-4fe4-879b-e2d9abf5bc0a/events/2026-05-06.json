@@ -311,5 +311,15 @@
     "type": "zone_added",
     "zoneId": "289860aa-cfda-49c3-9424-39b87abfc6f7",
     "start": "14:00"
+  },
+  {
+    "ts": 1778060248108,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "dc6f645b-5019-4ed0-8143-48bb17b3a875",
+    "field": "task",
+    "before": "",
+    "after": "проверка Левиных дней отсутствия ",
+    "zoneId": "289860aa-cfda-49c3-9424-39b87abfc6f7"
   }
 ]
