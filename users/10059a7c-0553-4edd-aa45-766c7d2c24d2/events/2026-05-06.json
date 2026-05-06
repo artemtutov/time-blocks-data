@@ -36,5 +36,22 @@
     "before": "",
     "after": "Deal Structure",
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778056462573,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778056465374,
+    "date": "2026-05-06",
+    "type": "zone_added",
+    "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d",
+    "start": "11:00"
   }
 ]
