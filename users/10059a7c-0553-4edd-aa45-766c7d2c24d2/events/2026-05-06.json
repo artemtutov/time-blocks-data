@@ -26,5 +26,15 @@
     "dur": 30,
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
     "index": 1
+  },
+  {
+    "ts": 1778056459439,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "field": "task",
+    "before": "",
+    "after": "Deal Structure",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
