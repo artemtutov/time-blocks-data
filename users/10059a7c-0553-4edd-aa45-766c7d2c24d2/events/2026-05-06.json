@@ -141,5 +141,15 @@
     "before": "",
     "after": "DFSO",
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778057214760,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "field": "dur",
+    "before": 90,
+    "after": 60,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
