@@ -251,5 +251,25 @@
     "dur": 30,
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
     "index": 1
+  },
+  {
+    "ts": 1778059157650,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "9c65ee2c-20f0-49a1-aa21-c57b8d425478",
+    "field": "dur",
+    "before": 30,
+    "after": 5,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
+  },
+  {
+    "ts": 1778059177967,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "9c65ee2c-20f0-49a1-aa21-c57b8d425478",
+    "field": "task",
+    "before": "",
+    "after": "отвечала поставщику и завела в прогу цветы",
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
   }
 ]
