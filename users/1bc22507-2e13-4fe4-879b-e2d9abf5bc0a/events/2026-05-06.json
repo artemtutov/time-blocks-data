@@ -281,5 +281,14 @@
     "before": 5,
     "after": 10,
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
+  },
+  {
+    "ts": 1778059184816,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "e4801eee-7bad-4f68-8be1-9c1b1549fee5",
+    "from": 0,
+    "to": 1,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
   }
 ]
