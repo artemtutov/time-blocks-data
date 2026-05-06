@@ -61,5 +61,15 @@
     "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d",
     "before": "11:00",
     "after": "12:00"
+  },
+  {
+    "ts": 1778056474111,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "120b2577-60d4-4756-a81d-16ac8d82043f",
+    "field": "task",
+    "before": "",
+    "after": "Rubric",
+    "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d"
   }
 ]
