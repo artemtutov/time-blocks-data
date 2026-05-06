@@ -241,5 +241,15 @@
     "before": "",
     "after": "просмотр вакансий hh",
     "zoneId": "315b9d25-31ee-4751-a05a-995d7819ebdb"
+  },
+  {
+    "ts": 1778059152599,
+    "date": "2026-05-06",
+    "type": "task_added",
+    "taskId": "9c65ee2c-20f0-49a1-aa21-c57b8d425478",
+    "task": "",
+    "dur": 30,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
+    "index": 1
   }
 ]
