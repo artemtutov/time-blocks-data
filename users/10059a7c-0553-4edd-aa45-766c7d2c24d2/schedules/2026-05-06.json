@@ -13,7 +13,8 @@
         {
           "id": "401ad4de-629a-43a7-bf9a-6ffa25d233b2",
           "task": "DFSO",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "6fad69be-91c0-4a89-b661-0cfc83f7762d",
