@@ -1,0 +1,30 @@
+[
+  {
+    "ts": 1778056442686,
+    "date": "2026-05-06",
+    "type": "zone_start_changed",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
+    "before": "09:00",
+    "after": "09:30"
+  },
+  {
+    "ts": 1778056455338,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "39f7a4c9-f74e-484e-a522-2d54f39a5933",
+    "field": "task",
+    "before": "",
+    "after": "Forecast",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778056455338,
+    "date": "2026-05-06",
+    "type": "task_added",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "task": "",
+    "dur": 30,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
+    "index": 1
+  }
+]
