@@ -8,6 +8,11 @@
           "id": "445bb1df-2629-4d31-b2b6-b513a4e6f9b3",
           "task": "Letter",
           "dur": 30
+        },
+        {
+          "id": "7b9985cd-02c5-46bd-9721-d66d8ce222ab",
+          "task": "",
+          "dur": 30
         }
       ]
     }
