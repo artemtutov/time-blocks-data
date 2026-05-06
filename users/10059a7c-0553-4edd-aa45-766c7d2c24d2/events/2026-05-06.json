@@ -426,5 +426,15 @@
     "before": "Update estimates\nUpdate EPS",
     "after": "Update estimates\nUpdate sensitivities",
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778088447031,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "dec4b6db-c740-4636-9485-cbfe676a9866",
+    "field": "dur",
+    "before": 300,
+    "after": 240,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
