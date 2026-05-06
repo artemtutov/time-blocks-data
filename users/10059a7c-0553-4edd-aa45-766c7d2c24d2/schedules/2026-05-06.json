@@ -12,11 +12,16 @@
         {
           "id": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
           "task": "Deal Structure",
-          "dur": 60
+          "dur": 90
         },
         {
           "id": "6fad69be-91c0-4a89-b661-0cfc83f7762d",
-          "task": "",
+          "task": "Calendar",
+          "dur": 30
+        },
+        {
+          "id": "a5c7af4a-1b82-4b32-b67a-8804aaab9491",
+          "task": "Taxonomy",
           "dur": 30
         }
       ]
