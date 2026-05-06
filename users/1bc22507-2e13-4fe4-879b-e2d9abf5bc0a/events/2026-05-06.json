@@ -440,5 +440,12 @@
     "dur": 90,
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
     "index": 2
+  },
+  {
+    "ts": 1778065992560,
+    "date": "2026-05-06",
+    "type": "task_completed",
+    "taskId": "d8edbf7b-80f2-4d14-a59f-a1cda77fea79",
+    "zoneId": "ed0a084f-422d-4704-892e-fbaa32417e6a"
   }
 ]
