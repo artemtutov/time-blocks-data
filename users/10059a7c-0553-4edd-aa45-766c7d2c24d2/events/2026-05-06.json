@@ -53,5 +53,13 @@
     "type": "zone_added",
     "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d",
     "start": "11:00"
+  },
+  {
+    "ts": 1778056468533,
+    "date": "2026-05-06",
+    "type": "zone_start_changed",
+    "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d",
+    "before": "11:00",
+    "after": "12:00"
   }
 ]
