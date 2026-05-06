@@ -371,5 +371,60 @@
     "before": 30,
     "after": 45,
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778071251223,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "54d98759-ce39-4e4d-8381-58070083dc55",
+    "from": 4,
+    "to": 5,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778071255217,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "54d98759-ce39-4e4d-8381-58070083dc55",
+    "field": "dur",
+    "before": 45,
+    "after": 90,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778088426216,
+    "date": "2026-05-06",
+    "type": "task_deleted",
+    "taskId": "120b2577-60d4-4756-a81d-16ac8d82043f",
+    "task": "Rubric",
+    "dur": 30,
+    "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d",
+    "index": 0
+  },
+  {
+    "ts": 1778088426218,
+    "date": "2026-05-06",
+    "type": "zone_removed",
+    "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d"
+  },
+  {
+    "ts": 1778088430828,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "dec4b6db-c740-4636-9485-cbfe676a9866",
+    "field": "dur",
+    "before": 30,
+    "after": 300,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778088444136,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
+    "field": "task",
+    "before": "Update estimates\nUpdate EPS",
+    "after": "Update estimates\nUpdate sensitivities",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
