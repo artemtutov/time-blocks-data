@@ -69,5 +69,40 @@
     "dur": 30,
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
     "index": 1
+  },
+  {
+    "ts": 1778058657622,
+    "date": "2026-05-06",
+    "type": "task_deleted",
+    "taskId": "e5d0167f-9384-40d1-8678-7e4d232e6d02",
+    "task": "",
+    "dur": 30,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
+    "index": 1
+  },
+  {
+    "ts": 1778058658872,
+    "date": "2026-05-06",
+    "type": "zone_added",
+    "zoneId": "ed0a084f-422d-4704-892e-fbaa32417e6a",
+    "start": "10:45"
+  },
+  {
+    "ts": 1778058676612,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "d8edbf7b-80f2-4d14-a59f-a1cda77fea79",
+    "field": "task",
+    "before": "",
+    "after": "проверка рабочих чатов и ответы",
+    "zoneId": "ed0a084f-422d-4704-892e-fbaa32417e6a"
+  },
+  {
+    "ts": 1778058677943,
+    "date": "2026-05-06",
+    "type": "task_started",
+    "taskId": "d8edbf7b-80f2-4d14-a59f-a1cda77fea79",
+    "dur": 30,
+    "zoneId": "ed0a084f-422d-4704-892e-fbaa32417e6a"
   }
 ]
