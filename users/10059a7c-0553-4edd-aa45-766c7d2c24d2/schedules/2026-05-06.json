@@ -52,6 +52,11 @@
           "id": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
           "task": "Update estimates\nUpdate sensitivities",
           "dur": 30
+        },
+        {
+          "id": "58450215-d3dc-4f8f-a776-42e03fdeac54",
+          "task": "First version of rubric",
+          "dur": 30
         }
       ]
     }
