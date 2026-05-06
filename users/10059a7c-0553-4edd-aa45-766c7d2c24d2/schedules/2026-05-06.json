@@ -37,7 +37,12 @@
         },
         {
           "id": "dec4b6db-c740-4636-9485-cbfe676a9866",
-          "task": "",
+          "task": "Write rubric",
+          "dur": 30
+        },
+        {
+          "id": "54d98759-ce39-4e4d-8381-58070083dc55",
+          "task": "Write prompt",
           "dur": 30
         }
       ]
