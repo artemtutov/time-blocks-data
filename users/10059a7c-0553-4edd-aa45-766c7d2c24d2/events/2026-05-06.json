@@ -361,5 +361,15 @@
     "type": "task_completed",
     "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778068600955,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "54d98759-ce39-4e4d-8381-58070083dc55",
+    "field": "dur",
+    "before": 30,
+    "after": 45,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
