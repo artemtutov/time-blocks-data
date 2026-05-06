@@ -224,5 +224,22 @@
     "before": "",
     "after": "online networking",
     "zoneId": "065b12e8-308a-4ff2-9cd8-4336c9ab60bd"
+  },
+  {
+    "ts": 1778058797167,
+    "date": "2026-05-06",
+    "type": "zone_added",
+    "zoneId": "315b9d25-31ee-4751-a05a-995d7819ebdb",
+    "start": "13:30"
+  },
+  {
+    "ts": 1778058815707,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "32520015-2466-46e9-9b7f-c3e2aef41f06",
+    "field": "task",
+    "before": "",
+    "after": "просмотр вакансий hh",
+    "zoneId": "315b9d25-31ee-4751-a05a-995d7819ebdb"
   }
 ]
