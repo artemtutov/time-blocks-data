@@ -447,5 +447,29 @@
     "type": "task_completed",
     "taskId": "d8edbf7b-80f2-4d14-a59f-a1cda77fea79",
     "zoneId": "ed0a084f-422d-4704-892e-fbaa32417e6a"
+  },
+  {
+    "ts": 1778065994318,
+    "date": "2026-05-06",
+    "type": "task_completed",
+    "taskId": "56f13d18-a99d-47d6-82d7-e38a3a86a85e",
+    "zoneId": "f6e4dc8d-1644-4fa4-b66a-318262ad60bb"
+  },
+  {
+    "ts": 1778067752463,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "a6bc0437-05a2-46b8-975a-7666899743da",
+    "field": "task",
+    "before": "перерыв",
+    "after": "перерыв (сделала пост в tik tok)",
+    "zoneId": "d577a916-8d49-40ba-a632-1aaf08f8c4f1"
+  },
+  {
+    "ts": 1778067753146,
+    "date": "2026-05-06",
+    "type": "task_completed",
+    "taskId": "a6bc0437-05a2-46b8-975a-7666899743da",
+    "zoneId": "d577a916-8d49-40ba-a632-1aaf08f8c4f1"
   }
 ]
