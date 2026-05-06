@@ -41,7 +41,12 @@
         {
           "id": "dec4b6db-c740-4636-9485-cbfe676a9866",
           "task": "Write rubric",
-          "dur": 300
+          "dur": 240
+        },
+        {
+          "id": "1f583b5c-2243-4500-819b-491d92c452aa",
+          "task": "",
+          "dur": 30
         },
         {
           "id": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
