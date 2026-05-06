@@ -336,5 +336,29 @@
     "zoneId": "5a1de282-34dc-4406-945a-ff655e2c69fc",
     "before": "14:30",
     "after": "20:00"
+  },
+  {
+    "ts": 1778060382002,
+    "date": "2026-05-06",
+    "type": "task_deleted",
+    "taskId": "1035e1ad-2c2c-46f2-971e-a28c9a6ecac3",
+    "task": "",
+    "dur": 30,
+    "zoneId": "5a1de282-34dc-4406-945a-ff655e2c69fc",
+    "index": 0
+  },
+  {
+    "ts": 1778060382003,
+    "date": "2026-05-06",
+    "type": "zone_removed",
+    "zoneId": "5a1de282-34dc-4406-945a-ff655e2c69fc"
+  },
+  {
+    "ts": 1778060386281,
+    "date": "2026-05-06",
+    "type": "task_started",
+    "taskId": "6d6371c7-f54b-49d2-876b-157a605e784b",
+    "dur": 30,
+    "zoneId": "97412cc1-10f8-4e4c-b5c7-df71edd03e9d"
   }
 ]
