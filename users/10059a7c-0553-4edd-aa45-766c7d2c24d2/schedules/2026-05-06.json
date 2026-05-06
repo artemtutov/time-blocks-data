@@ -6,7 +6,12 @@
       "rows": [
         {
           "id": "39f7a4c9-f74e-484e-a522-2d54f39a5933",
-          "task": "",
+          "task": "Forecast",
+          "dur": 30
+        },
+        {
+          "id": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+          "task": "Deal Structure",
           "dur": 30
         }
       ]
