@@ -486,5 +486,29 @@
     "before": "",
     "after": "First version of rubric",
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778088622375,
+    "date": "2026-05-06",
+    "type": "task_completed",
+    "taskId": "a5c7af4a-1b82-4b32-b67a-8804aaab9491",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778088623560,
+    "date": "2026-05-06",
+    "type": "task_completed",
+    "taskId": "54d98759-ce39-4e4d-8381-58070083dc55",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778088637792,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
+    "field": "task",
+    "before": "Update estimates\nUpdate sensitivities",
+    "after": "Update estimates\nUpdate sensitivities\nmin rubric",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
