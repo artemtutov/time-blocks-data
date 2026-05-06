@@ -518,5 +518,51 @@
     "dur": 30,
     "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f",
     "index": 7
+  },
+  {
+    "ts": 1777990918749,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "b8dc2e9f-254c-4d94-a48f-34e861a4b13c",
+    "field": "task",
+    "before": "",
+    "after": "Model update",
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1777990920131,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "b8dc2e9f-254c-4d94-a48f-34e861a4b13c",
+    "field": "dur",
+    "before": 30,
+    "after": 180,
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1778056394662,
+    "date": "2026-05-05",
+    "type": "task_deleted",
+    "taskId": "c4c15315-b093-4cbf-abf3-c0c03753c415",
+    "task": "Go to post",
+    "dur": 30,
+    "zoneId": "2557dcd7-5dda-4ee4-ae1b-19d208199ee5",
+    "index": 0
+  },
+  {
+    "ts": 1778056394665,
+    "date": "2026-05-05",
+    "type": "zone_removed",
+    "zoneId": "2557dcd7-5dda-4ee4-ae1b-19d208199ee5"
+  },
+  {
+    "ts": 1778056401322,
+    "date": "2026-05-05",
+    "type": "task_edited",
+    "taskId": "4c61bcac-5271-4e61-acb6-fac895a73a8c",
+    "field": "task",
+    "before": "Lunch",
+    "after": "Lunch / Post",
+    "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
   }
 ]
