@@ -6,5 +6,35 @@
     "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89",
     "before": "09:00",
     "after": "09:30"
+  },
+  {
+    "ts": 1778056509876,
+    "date": "2026-05-07",
+    "type": "task_edited",
+    "taskId": "445bb1df-2629-4d31-b2b6-b513a4e6f9b3",
+    "field": "task",
+    "before": "",
+    "after": "Letter",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778056509877,
+    "date": "2026-05-07",
+    "type": "task_added",
+    "taskId": "7b9985cd-02c5-46bd-9721-d66d8ce222ab",
+    "task": "",
+    "dur": 30,
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89",
+    "index": 1
+  },
+  {
+    "ts": 1778056521388,
+    "date": "2026-05-07",
+    "type": "task_edited",
+    "taskId": "7b9985cd-02c5-46bd-9721-d66d8ce222ab",
+    "field": "task",
+    "before": "",
+    "after": "Flower Order",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
   }
 ]
