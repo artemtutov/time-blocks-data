@@ -36,14 +36,14 @@
           "dur": 30
         },
         {
-          "id": "dec4b6db-c740-4636-9485-cbfe676a9866",
-          "task": "Write rubric",
-          "dur": 30
-        },
-        {
           "id": "a5c7af4a-1b82-4b32-b67a-8804aaab9491",
           "task": "Taxonomy",
           "dur": 15
+        },
+        {
+          "id": "dec4b6db-c740-4636-9485-cbfe676a9866",
+          "task": "Write rubric",
+          "dur": 30
         }
       ]
     },
