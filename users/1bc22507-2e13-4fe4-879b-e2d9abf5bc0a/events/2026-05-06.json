@@ -1,0 +1,10 @@
+[
+  {
+    "ts": 1778058618351,
+    "date": "2026-05-06",
+    "type": "zone_start_changed",
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
+    "before": "09:00",
+    "after": "10:15"
+  }
+]
