@@ -161,5 +161,42 @@
     "before": 30,
     "after": 15,
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778058106372,
+    "date": "2026-05-06",
+    "type": "task_completed",
+    "taskId": "39f7a4c9-f74e-484e-a522-2d54f39a5933",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778058114298,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "39f7a4c9-f74e-484e-a522-2d54f39a5933",
+    "field": "dur",
+    "before": 30,
+    "after": 45,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778061166273,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "field": "dur",
+    "before": 60,
+    "after": 90,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778062363738,
+    "date": "2026-05-06",
+    "type": "task_added",
+    "taskId": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
+    "task": "",
+    "dur": 30,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
+    "index": 4
   }
 ]
