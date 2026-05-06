@@ -420,5 +420,25 @@
     "before": 30,
     "after": 90,
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
+  },
+  {
+    "ts": 1778060463241,
+    "date": "2026-05-06",
+    "type": "task_deleted",
+    "taskId": "d7cc9b53-8cbd-48da-9639-39a185fad7b2",
+    "task": "",
+    "dur": 30,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
+    "index": 2
+  },
+  {
+    "ts": 1778060464384,
+    "date": "2026-05-06",
+    "type": "task_deleted",
+    "taskId": "bc03ca66-29c3-4fa8-bb22-fc1031dbc6da",
+    "task": "",
+    "dur": 90,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
+    "index": 2
   }
 ]
