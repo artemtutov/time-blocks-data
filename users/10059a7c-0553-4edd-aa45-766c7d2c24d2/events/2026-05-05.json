@@ -564,5 +564,21 @@
     "before": "Lunch",
     "after": "Lunch / Post",
     "zoneId": "0a8d7a11-f9e4-4589-aed3-5371f4a8665f"
+  },
+  {
+    "ts": 1778056410928,
+    "date": "2026-05-05",
+    "type": "task_deleted",
+    "taskId": "c1b902a0-2628-4a91-8d65-20f8a738b1d3",
+    "task": "M&A check\n- if IB\n- if can be updated\n- clean comments\n- see if can be run via LLM for checks",
+    "dur": 30,
+    "zoneId": "d7281b20-8620-404f-ace4-337785192013",
+    "index": 0
+  },
+  {
+    "ts": 1778056410929,
+    "date": "2026-05-05",
+    "type": "zone_removed",
+    "zoneId": "d7281b20-8620-404f-ace4-337785192013"
   }
 ]
