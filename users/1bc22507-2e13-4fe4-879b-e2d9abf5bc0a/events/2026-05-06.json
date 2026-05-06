@@ -410,5 +410,15 @@
     "before": 30,
     "after": 90,
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
+  },
+  {
+    "ts": 1778060435762,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "bc03ca66-29c3-4fa8-bb22-fc1031dbc6da",
+    "field": "dur",
+    "before": 30,
+    "after": 90,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
   }
 ]
