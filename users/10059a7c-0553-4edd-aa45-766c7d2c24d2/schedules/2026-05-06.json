@@ -16,14 +16,14 @@
           "dur": 30
         },
         {
-          "id": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
-          "task": "Deal Structure",
-          "dur": 90
-        },
-        {
           "id": "6fad69be-91c0-4a89-b661-0cfc83f7762d",
           "task": "Calendar",
           "dur": 30
+        },
+        {
+          "id": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+          "task": "Deal Structure",
+          "dur": 90
         },
         {
           "id": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
