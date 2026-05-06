@@ -71,5 +71,25 @@
     "before": "",
     "after": "Rubric",
     "zoneId": "d582e0c2-4d56-4f52-a8fa-dd7d5d25d54d"
+  },
+  {
+    "ts": 1778056672636,
+    "date": "2026-05-06",
+    "type": "task_added",
+    "taskId": "6fad69be-91c0-4a89-b661-0cfc83f7762d",
+    "task": "",
+    "dur": 30,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
+    "index": 2
+  },
+  {
+    "ts": 1778056832535,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "field": "dur",
+    "before": 60,
+    "after": 90,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
