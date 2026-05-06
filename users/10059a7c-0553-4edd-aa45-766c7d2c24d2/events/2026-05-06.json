@@ -476,5 +476,15 @@
     "dur": 30,
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
     "index": 9
+  },
+  {
+    "ts": 1778088470582,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "58450215-d3dc-4f8f-a776-42e03fdeac54",
+    "field": "task",
+    "before": "",
+    "after": "First version of rubric",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
