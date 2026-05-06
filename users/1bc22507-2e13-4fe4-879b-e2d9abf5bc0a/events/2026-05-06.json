@@ -6,5 +6,32 @@
     "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
     "before": "09:00",
     "after": "10:15"
+  },
+  {
+    "ts": 1778058635984,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "e4801eee-7bad-4f68-8be1-9c1b1549fee5",
+    "field": "task",
+    "before": "",
+    "after": "написать письмо APC Amina",
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128"
+  },
+  {
+    "ts": 1778058635984,
+    "date": "2026-05-06",
+    "type": "task_added",
+    "taskId": "92a4de50-839b-4b10-ae65-d5ba5285cc1c",
+    "task": "",
+    "dur": 30,
+    "zoneId": "6ebde553-1990-440d-b1d8-1c6214a4c128",
+    "index": 1
+  },
+  {
+    "ts": 1778058639209,
+    "date": "2026-05-06",
+    "type": "zone_added",
+    "zoneId": "df54cc62-4672-431b-a56d-0f5ed803aa19",
+    "start": "11:15"
   }
 ]
