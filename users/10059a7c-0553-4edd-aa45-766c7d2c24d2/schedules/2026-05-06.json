@@ -7,7 +7,8 @@
         {
           "id": "39f7a4c9-f74e-484e-a522-2d54f39a5933",
           "task": "Forecast",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "401ad4de-629a-43a7-bf9a-6ffa25d233b2",
@@ -17,7 +18,7 @@
         {
           "id": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
           "task": "Deal Structure",
-          "dur": 90
+          "dur": 60
         },
         {
           "id": "6fad69be-91c0-4a89-b661-0cfc83f7762d",
@@ -27,7 +28,7 @@
         {
           "id": "a5c7af4a-1b82-4b32-b67a-8804aaab9491",
           "task": "Taxonomy",
-          "dur": 30
+          "dur": 15
         }
       ]
     },
