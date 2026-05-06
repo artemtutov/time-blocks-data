@@ -49,7 +49,8 @@
         {
           "id": "1f583b5c-2243-4500-819b-491d92c452aa",
           "task": "Break",
-          "dur": 45
+          "dur": 45,
+          "done": true
         },
         {
           "id": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
