@@ -170,5 +170,15 @@
     "type": "zone_added",
     "zoneId": "d577a916-8d49-40ba-a632-1aaf08f8c4f1",
     "start": "12:15"
+  },
+  {
+    "ts": 1778058745193,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "a6bc0437-05a2-46b8-975a-7666899743da",
+    "field": "task",
+    "before": "",
+    "after": "перерыв",
+    "zoneId": "d577a916-8d49-40ba-a632-1aaf08f8c4f1"
   }
 ]
