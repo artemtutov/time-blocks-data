@@ -265,5 +265,70 @@
     "dur": 30,
     "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce",
     "index": 7
+  },
+  {
+    "ts": 1778066429479,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "54d98759-ce39-4e4d-8381-58070083dc55",
+    "field": "task",
+    "before": "",
+    "after": "Write prompt",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778066430788,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "54d98759-ce39-4e4d-8381-58070083dc55",
+    "from": 7,
+    "to": 5,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778066437937,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "dec4b6db-c740-4636-9485-cbfe676a9866",
+    "from": 7,
+    "to": 6,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778066443632,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "a5c7af4a-1b82-4b32-b67a-8804aaab9491",
+    "from": 7,
+    "to": 6,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778066453638,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "a0c3fafc-f4a0-424b-b2e0-714fa8149602",
+    "from": 4,
+    "to": 6,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778066455863,
+    "date": "2026-05-06",
+    "type": "task_moved",
+    "taskId": "dec4b6db-c740-4636-9485-cbfe676a9866",
+    "from": 7,
+    "to": 6,
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
+  },
+  {
+    "ts": 1778068562593,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "10c01fb1-e7a7-4393-b4d0-95f4925a4fb5",
+    "field": "task",
+    "before": "Deal Structure",
+    "after": "Deal Structure\n- estimates\n- eps are outstanding",
+    "zoneId": "28984cc3-3f40-47d9-9714-250396eb69ce"
   }
 ]
