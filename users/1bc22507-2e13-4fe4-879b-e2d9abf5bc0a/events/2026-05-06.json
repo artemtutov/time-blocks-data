@@ -143,5 +143,15 @@
     "type": "zone_added",
     "zoneId": "f6e4dc8d-1644-4fa4-b66a-318262ad60bb",
     "start": "11:00"
+  },
+  {
+    "ts": 1778058730220,
+    "date": "2026-05-06",
+    "type": "task_edited",
+    "taskId": "56f13d18-a99d-47d6-82d7-e38a3a86a85e",
+    "field": "task",
+    "before": "",
+    "after": "креатив недели и закуп цветов",
+    "zoneId": "f6e4dc8d-1644-4fa4-b66a-318262ad60bb"
   }
 ]
