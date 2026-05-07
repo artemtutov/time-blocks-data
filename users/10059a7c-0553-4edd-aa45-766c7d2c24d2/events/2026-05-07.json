@@ -192,5 +192,15 @@
     "dur": 30,
     "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89",
     "index": 4
+  },
+  {
+    "ts": 1778156693275,
+    "date": "2026-05-07",
+    "type": "task_edited",
+    "taskId": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
+    "field": "task",
+    "before": "",
+    "after": "Running / Scoring",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
   }
 ]
