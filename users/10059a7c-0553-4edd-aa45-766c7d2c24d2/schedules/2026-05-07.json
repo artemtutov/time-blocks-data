@@ -5,9 +5,14 @@
       "start": "10:30",
       "rows": [
         {
+          "id": "da98102d-cbb2-4e8a-82b5-7d49928955c8",
+          "task": "Fixing model",
+          "dur": 60
+        },
+        {
           "id": "1540af66-840e-4c5d-8603-f04526984b81",
           "task": "Do the rubrics",
-          "dur": 90
+          "dur": 120
         },
         {
           "id": "f0216222-95d9-4fcf-a5c1-0ddfef15fdac",
@@ -17,11 +22,6 @@
         {
           "id": "171537da-921f-4a52-9080-f05346dae0e1",
           "task": "Background",
-          "dur": 30
-        },
-        {
-          "id": "da98102d-cbb2-4e8a-82b5-7d49928955c8",
-          "task": "Fixing model",
           "dur": 30
         }
       ]
