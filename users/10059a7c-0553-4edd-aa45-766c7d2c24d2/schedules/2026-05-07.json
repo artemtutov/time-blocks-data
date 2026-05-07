@@ -18,6 +18,11 @@
           "id": "171537da-921f-4a52-9080-f05346dae0e1",
           "task": "Background",
           "dur": 30
+        },
+        {
+          "id": "da98102d-cbb2-4e8a-82b5-7d49928955c8",
+          "task": "Fixing model",
+          "dur": 30
         }
       ]
     }
