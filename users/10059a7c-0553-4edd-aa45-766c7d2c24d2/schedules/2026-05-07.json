@@ -23,6 +23,11 @@
           "id": "171537da-921f-4a52-9080-f05346dae0e1",
           "task": "Background",
           "dur": 30
+        },
+        {
+          "id": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
+          "task": "Running / Scoring",
+          "dur": 30
         }
       ]
     }
