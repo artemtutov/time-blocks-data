@@ -202,5 +202,14 @@
     "before": "",
     "after": "Running / Scoring",
     "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778156695530,
+    "date": "2026-05-07",
+    "type": "task_moved",
+    "taskId": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
+    "from": 4,
+    "to": 2,
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
   }
 ]
