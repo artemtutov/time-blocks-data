@@ -163,5 +163,14 @@
     "before": 600,
     "after": 60,
     "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778156679512,
+    "date": "2026-05-07",
+    "type": "task_moved",
+    "taskId": "da98102d-cbb2-4e8a-82b5-7d49928955c8",
+    "from": 3,
+    "to": 0,
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
   }
 ]
