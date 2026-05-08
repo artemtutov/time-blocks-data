@@ -7,6 +7,16 @@
         {
           "id": "cfe65909-f639-4792-a59b-c43084d1c7c6",
           "task": "Rubric review",
+          "dur": 60
+        },
+        {
+          "id": "267867f3-3581-4252-bdf9-5b3a15c94a93",
+          "task": "Persona file",
+          "dur": 30
+        },
+        {
+          "id": "7f89f8ba-2896-4106-b903-a646bfa414ec",
+          "task": "My ",
           "dur": 30
         }
       ]
