@@ -7,27 +7,32 @@
         {
           "id": "da98102d-cbb2-4e8a-82b5-7d49928955c8",
           "task": "Fixing model",
-          "dur": 60
+          "dur": 60,
+          "done": true
         },
         {
           "id": "1540af66-840e-4c5d-8603-f04526984b81",
           "task": "Do the rubrics",
-          "dur": 120
+          "dur": 120,
+          "done": true
         },
         {
           "id": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
           "task": "Running / Scoring",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "f0216222-95d9-4fcf-a5c1-0ddfef15fdac",
           "task": "Context",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "171537da-921f-4a52-9080-f05346dae0e1",
           "task": "Background",
-          "dur": 30
+          "dur": 30,
+          "done": true
         }
       ]
     }
