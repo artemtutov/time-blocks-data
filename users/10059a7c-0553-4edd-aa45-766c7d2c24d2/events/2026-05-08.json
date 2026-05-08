@@ -6,5 +6,25 @@
     "zoneId": "f2975649-2946-41d4-bec0-80fff0491752",
     "before": "09:00",
     "after": "10:30"
+  },
+  {
+    "ts": 1778232574096,
+    "date": "2026-05-08",
+    "type": "task_edited",
+    "taskId": "cfe65909-f639-4792-a59b-c43084d1c7c6",
+    "field": "task",
+    "before": "",
+    "after": "Rubric review",
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
+  },
+  {
+    "ts": 1778232575190,
+    "date": "2026-05-08",
+    "type": "task_edited",
+    "taskId": "cfe65909-f639-4792-a59b-c43084d1c7c6",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
   }
 ]
