@@ -7,7 +7,8 @@
         {
           "id": "cfe65909-f639-4792-a59b-c43084d1c7c6",
           "task": "Rubric review",
-          "dur": 120
+          "dur": 120,
+          "done": true
         },
         {
           "id": "267867f3-3581-4252-bdf9-5b3a15c94a93",
