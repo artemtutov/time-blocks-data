@@ -17,6 +17,11 @@
         {
           "id": "7f89f8ba-2896-4106-b903-a646bfa414ec",
           "task": "My QA comments",
+          "dur": 90
+        },
+        {
+          "id": "2e996364-c591-4613-87fa-92f5a581b922",
+          "task": "Lunch",
           "dur": 30
         }
       ]
