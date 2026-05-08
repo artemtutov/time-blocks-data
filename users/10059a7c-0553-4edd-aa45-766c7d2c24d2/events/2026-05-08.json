@@ -86,5 +86,15 @@
     "dur": 30,
     "zoneId": "f2975649-2946-41d4-bec0-80fff0491752",
     "index": 3
+  },
+  {
+    "ts": 1778232598719,
+    "date": "2026-05-08",
+    "type": "task_edited",
+    "taskId": "2e996364-c591-4613-87fa-92f5a581b922",
+    "field": "task",
+    "before": "",
+    "after": "Lunch",
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
   }
 ]
