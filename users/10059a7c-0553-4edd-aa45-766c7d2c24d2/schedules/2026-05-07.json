@@ -15,6 +15,11 @@
           "dur": 120
         },
         {
+          "id": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
+          "task": "Running / Scoring",
+          "dur": 30
+        },
+        {
           "id": "f0216222-95d9-4fcf-a5c1-0ddfef15fdac",
           "task": "Context",
           "dur": 30
@@ -22,11 +27,6 @@
         {
           "id": "171537da-921f-4a52-9080-f05346dae0e1",
           "task": "Background",
-          "dur": 30
-        },
-        {
-          "id": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
-          "task": "Running / Scoring",
           "dur": 30
         }
       ]
