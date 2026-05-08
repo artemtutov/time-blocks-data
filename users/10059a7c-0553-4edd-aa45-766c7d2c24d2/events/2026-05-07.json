@@ -211,5 +211,40 @@
     "from": 4,
     "to": 2,
     "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778244939615,
+    "date": "2026-05-07",
+    "type": "task_completed",
+    "taskId": "da98102d-cbb2-4e8a-82b5-7d49928955c8",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778244941067,
+    "date": "2026-05-07",
+    "type": "task_completed",
+    "taskId": "1540af66-840e-4c5d-8603-f04526984b81",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778244941961,
+    "date": "2026-05-07",
+    "type": "task_completed",
+    "taskId": "e9ba062f-0213-4fdd-afc6-1ce6c8ecb721",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778244942735,
+    "date": "2026-05-07",
+    "type": "task_completed",
+    "taskId": "f0216222-95d9-4fcf-a5c1-0ddfef15fdac",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
+  },
+  {
+    "ts": 1778244943668,
+    "date": "2026-05-07",
+    "type": "task_completed",
+    "taskId": "171537da-921f-4a52-9080-f05346dae0e1",
+    "zoneId": "26d37186-e1b2-4104-be5b-daa30878fb89"
   }
 ]
