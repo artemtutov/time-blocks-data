@@ -36,5 +36,25 @@
     "dur": 30,
     "zoneId": "f2975649-2946-41d4-bec0-80fff0491752",
     "index": 1
+  },
+  {
+    "ts": 1778232584358,
+    "date": "2026-05-08",
+    "type": "task_edited",
+    "taskId": "267867f3-3581-4252-bdf9-5b3a15c94a93",
+    "field": "task",
+    "before": "",
+    "after": "Persona file",
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
+  },
+  {
+    "ts": 1778232584359,
+    "date": "2026-05-08",
+    "type": "task_added",
+    "taskId": "7f89f8ba-2896-4106-b903-a646bfa414ec",
+    "task": "",
+    "dur": 30,
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752",
+    "index": 2
   }
 ]
