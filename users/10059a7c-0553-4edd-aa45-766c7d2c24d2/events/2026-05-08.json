@@ -96,5 +96,25 @@
     "before": "",
     "after": "Lunch",
     "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
+  },
+  {
+    "ts": 1778239094703,
+    "date": "2026-05-08",
+    "type": "task_edited",
+    "taskId": "cfe65909-f639-4792-a59b-c43084d1c7c6",
+    "field": "dur",
+    "before": 60,
+    "after": 120,
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
+  },
+  {
+    "ts": 1778241473426,
+    "date": "2026-05-08",
+    "type": "task_edited",
+    "taskId": "267867f3-3581-4252-bdf9-5b3a15c94a93",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "f2975649-2946-41d4-bec0-80fff0491752"
   }
 ]
