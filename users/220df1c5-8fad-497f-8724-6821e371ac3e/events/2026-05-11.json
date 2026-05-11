@@ -240,5 +240,15 @@
     "before": "",
     "after": "подсчет транспортных",
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488629825,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "1a899cef-b4e0-4de5-a1ca-d22ef52f13c8",
+    "task": "",
+    "dur": 30,
+    "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad",
+    "index": 2
   }
 ]
