@@ -8,6 +8,11 @@
           "id": "a8fcf01d-d1b4-4729-bb96-655a50829c34",
           "task": "Choose task",
           "dur": 30
+        },
+        {
+          "id": "f91ce0dc-1b3a-4600-9ac9-8f599a3bf0fe",
+          "task": "",
+          "dur": 30
         }
       ]
     }
