@@ -151,5 +151,38 @@
     "dur": 30,
     "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad",
     "index": 1
+  },
+  {
+    "ts": 1778488554712,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "2393ef60-9673-450b-8b1c-924afd0e81d5",
+    "field": "task",
+    "before": "",
+    "after": "выписать мысли - план ",
+    "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad"
+  },
+  {
+    "ts": 1778488554800,
+    "date": "2026-05-11",
+    "type": "zone_added",
+    "zoneId": "716bbd98-79b8-4557-85b7-c195bf93bf34",
+    "start": "14:00"
+  },
+  {
+    "ts": 1778488574315,
+    "date": "2026-05-11",
+    "type": "zone_start_changed",
+    "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad",
+    "before": "13:00",
+    "after": "14:00"
+  },
+  {
+    "ts": 1778488578524,
+    "date": "2026-05-11",
+    "type": "zone_start_changed",
+    "zoneId": "716bbd98-79b8-4557-85b7-c195bf93bf34",
+    "before": "14:00",
+    "after": "13:00"
   }
 ]
