@@ -28,6 +28,11 @@
           "id": "215b2079-4a38-49ce-a0ff-2813adc9dad6",
           "task": "check other docs",
           "dur": 15
+        },
+        {
+          "id": "0663b1b0-f045-4b06-8284-480123468c2a",
+          "task": "what can you build?",
+          "dur": 30
         }
       ]
     }
