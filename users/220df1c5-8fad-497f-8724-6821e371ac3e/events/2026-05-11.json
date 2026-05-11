@@ -230,5 +230,15 @@
     "dur": 30,
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
     "index": 7
+  },
+  {
+    "ts": 1778488626146,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "403c3a81-ce50-4ea6-a772-39f7ce1647d8",
+    "field": "task",
+    "before": "",
+    "after": "подсчет транспортных",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
   }
 ]
