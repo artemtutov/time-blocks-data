@@ -86,5 +86,35 @@
     "dur": 30,
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
     "index": 4
+  },
+  {
+    "ts": 1778488449813,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "dc0fb97c-f8d3-415a-94ff-3e632911353c",
+    "field": "task",
+    "before": "",
+    "after": "поговорить с Бахтияром - узннать что изменилось и его ожидания (понять как строить диалог) ",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488449813,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "ce1b42a9-014d-4730-b26a-b1a296528c18",
+    "task": "",
+    "dur": 30,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "index": 5
+  },
+  {
+    "ts": 1778488482433,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "ce1b42a9-014d-4730-b26a-b1a296528c18",
+    "field": "task",
+    "before": "",
+    "after": "сделать план по сотрудникам алматы на 3 мес - реальность + с учетом роста",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
   }
 ]
