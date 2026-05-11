@@ -21,8 +21,13 @@
         },
         {
           "id": "557d980e-d8fe-4745-b074-2ed4b635350c",
-          "task": "",
+          "task": "check other models",
           "dur": 15
+        },
+        {
+          "id": "215b2079-4a38-49ce-a0ff-2813adc9dad6",
+          "task": "check other docs",
+          "dur": 30
         }
       ]
     }
