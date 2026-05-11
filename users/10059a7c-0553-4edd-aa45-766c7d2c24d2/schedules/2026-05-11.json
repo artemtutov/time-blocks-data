@@ -16,6 +16,11 @@
         },
         {
           "id": "16078c4f-a786-4583-b28a-8f202efeb9ab",
+          "task": "Looking for GR",
+          "dur": 120
+        },
+        {
+          "id": "557d980e-d8fe-4745-b074-2ed4b635350c",
           "task": "",
           "dur": 30
         }
