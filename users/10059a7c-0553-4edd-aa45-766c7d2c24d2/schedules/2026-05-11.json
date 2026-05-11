@@ -13,6 +13,11 @@
           "id": "f91ce0dc-1b3a-4600-9ac9-8f599a3bf0fe",
           "task": "Cook home",
           "dur": 90
+        },
+        {
+          "id": "16078c4f-a786-4583-b28a-8f202efeb9ab",
+          "task": "",
+          "dur": 30
         }
       ]
     }
