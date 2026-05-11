@@ -67,5 +67,24 @@
     "from": 2,
     "to": 1,
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488411285,
+    "date": "2026-05-11",
+    "type": "task_moved",
+    "taskId": "e6e1d9e3-d03f-4193-bbc6-3ad5dcfb2cd0",
+    "from": 3,
+    "to": 2,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488412994,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "dc0fb97c-f8d3-415a-94ff-3e632911353c",
+    "task": "",
+    "dur": 30,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "index": 4
   }
 ]
