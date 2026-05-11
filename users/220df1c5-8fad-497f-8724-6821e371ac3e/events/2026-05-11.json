@@ -260,5 +260,23 @@
     "before": "",
     "after": "сделать пост карусель",
     "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad"
+  },
+  {
+    "ts": 1778493162926,
+    "date": "2026-05-11",
+    "type": "zone_start_changed",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "before": "10:00",
+    "after": "11:00"
+  },
+  {
+    "ts": 1778493187961,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "4f7970c5-1d19-45fb-b680-b816eeebb1ce",
+    "field": "task",
+    "before": "",
+    "after": "ответить на сообщения в чате/ написать про закуп",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
   }
 ]
