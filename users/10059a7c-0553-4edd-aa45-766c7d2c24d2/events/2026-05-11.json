@@ -96,5 +96,25 @@
     "before": 30,
     "after": 90,
     "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778509048840,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "16078c4f-a786-4583-b28a-8f202efeb9ab",
+    "field": "dur",
+    "before": 90,
+    "after": 120,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778509051198,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "16078c4f-a786-4583-b28a-8f202efeb9ab",
+    "field": "dur",
+    "before": 120,
+    "after": 110,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
   }
 ]
