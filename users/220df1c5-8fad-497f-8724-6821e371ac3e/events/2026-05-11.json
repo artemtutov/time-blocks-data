@@ -210,5 +210,25 @@
     "dur": 30,
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
     "index": 6
+  },
+  {
+    "ts": 1778488616461,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "210848c4-d1c8-4525-bb7a-9f2dc92bc2cf",
+    "field": "task",
+    "before": "",
+    "after": "зарплаты сотрудникам - подсчет выплата",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488616462,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "403c3a81-ce50-4ea6-a772-39f7ce1647d8",
+    "task": "",
+    "dur": 30,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "index": 7
   }
 ]
