@@ -124,5 +124,32 @@
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
     "before": "09:00",
     "after": "10:00"
+  },
+  {
+    "ts": 1778488515645,
+    "date": "2026-05-11",
+    "type": "zone_added",
+    "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad",
+    "start": "13:00"
+  },
+  {
+    "ts": 1778488533937,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "783b2d82-d313-4c85-85bd-f51bc280f2f4",
+    "field": "task",
+    "before": "",
+    "after": "отсоединить свой блог от всего и сделать отдельным ",
+    "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad"
+  },
+  {
+    "ts": 1778488533937,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "2393ef60-9673-450b-8b1c-924afd0e81d5",
+    "task": "",
+    "dur": 30,
+    "zoneId": "ec94e556-b04d-4361-af4d-52bed80b51ad",
+    "index": 1
   }
 ]
