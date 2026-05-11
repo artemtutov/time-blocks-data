@@ -1,0 +1,32 @@
+[
+  {
+    "ts": 1778488299766,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "2f63fb5e-b5b1-4c1e-afa7-6ed8270a96eb",
+    "task": "",
+    "dur": 30,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "index": 1
+  },
+  {
+    "ts": 1778488325297,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "2f63fb5e-b5b1-4c1e-afa7-6ed8270a96eb",
+    "field": "task",
+    "before": "",
+    "after": "посмотреть все отклики на hh",
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488325298,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "19bfab07-7f6a-472e-9514-365d7c4dfa55",
+    "task": "",
+    "dur": 30,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "index": 2
+  }
+]
