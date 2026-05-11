@@ -200,5 +200,15 @@
     "date": "2026-05-11",
     "type": "zone_removed",
     "zoneId": "716bbd98-79b8-4557-85b7-c195bf93bf34"
+  },
+  {
+    "ts": 1778488600273,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "210848c4-d1c8-4525-bb7a-9f2dc92bc2cf",
+    "task": "",
+    "dur": 30,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4",
+    "index": 6
   }
 ]
