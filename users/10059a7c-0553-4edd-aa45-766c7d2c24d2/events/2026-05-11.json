@@ -1,0 +1,90 @@
+[
+  {
+    "ts": 1778496290179,
+    "date": "2026-05-11",
+    "type": "zone_start_changed",
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e",
+    "before": "09:00",
+    "after": "12:00"
+  },
+  {
+    "ts": 1778496298417,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "a8fcf01d-d1b4-4729-bb96-655a50829c34",
+    "field": "task",
+    "before": "",
+    "after": "Choose task",
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778496298417,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "f91ce0dc-1b3a-4600-9ac9-8f599a3bf0fe",
+    "task": "",
+    "dur": 30,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e",
+    "index": 1
+  },
+  {
+    "ts": 1778509009542,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "f91ce0dc-1b3a-4600-9ac9-8f599a3bf0fe",
+    "field": "task",
+    "before": "",
+    "after": "Cook home",
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778509010647,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "f91ce0dc-1b3a-4600-9ac9-8f599a3bf0fe",
+    "field": "dur",
+    "before": 30,
+    "after": 90,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778509012521,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "16078c4f-a786-4583-b28a-8f202efeb9ab",
+    "task": "",
+    "dur": 30,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e",
+    "index": 2
+  },
+  {
+    "ts": 1778509017637,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "f91ce0dc-1b3a-4600-9ac9-8f599a3bf0fe",
+    "field": "dur",
+    "before": 90,
+    "after": 60,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778509026076,
+    "date": "2026-05-11",
+    "type": "task_edited",
+    "taskId": "16078c4f-a786-4583-b28a-8f202efeb9ab",
+    "field": "task",
+    "before": "",
+    "after": "Looking for GR",
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e"
+  },
+  {
+    "ts": 1778509026076,
+    "date": "2026-05-11",
+    "type": "task_added",
+    "taskId": "557d980e-d8fe-4745-b074-2ed4b635350c",
+    "task": "",
+    "dur": 30,
+    "zoneId": "baac113b-fb29-4eb5-8e53-35107849080e",
+    "index": 3
+  }
+]
