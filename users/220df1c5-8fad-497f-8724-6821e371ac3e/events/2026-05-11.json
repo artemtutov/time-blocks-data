@@ -58,5 +58,14 @@
     "before": "",
     "after": "посчитать я плачу за время/ задачу выполненную ",
     "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
+  },
+  {
+    "ts": 1778488407529,
+    "date": "2026-05-11",
+    "type": "task_moved",
+    "taskId": "19bfab07-7f6a-472e-9514-365d7c4dfa55",
+    "from": 2,
+    "to": 1,
+    "zoneId": "edb0bb10-d423-47dd-a020-4dde73a89bb4"
   }
 ]
