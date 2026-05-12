@@ -8,5 +8,25 @@
     "before": "",
     "after": "Review other people tasks. ",
     "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1"
+  },
+  {
+    "ts": 1778585982735,
+    "date": "2026-05-12",
+    "type": "task_edited",
+    "taskId": "df6c22e1-4cd3-4111-8853-7bdfb215c8ce",
+    "field": "dur",
+    "before": 30,
+    "after": 240,
+    "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1"
+  },
+  {
+    "ts": 1778585984766,
+    "date": "2026-05-12",
+    "type": "task_added",
+    "taskId": "eb6cd5e1-720b-4cbe-8172-b3976f026700",
+    "task": "",
+    "dur": 30,
+    "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1",
+    "index": 1
   }
 ]
