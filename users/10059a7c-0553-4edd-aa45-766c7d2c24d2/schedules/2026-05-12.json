@@ -1,0 +1,15 @@
+{
+  "zones": [
+    {
+      "id": "19ace6f7-9afa-48af-ac5f-682c859c1dc1",
+      "start": "09:00",
+      "rows": [
+        {
+          "id": "df6c22e1-4cd3-4111-8853-7bdfb215c8ce",
+          "task": "Review other people tasks. ",
+          "dur": 30
+        }
+      ]
+    }
+  ]
+}
