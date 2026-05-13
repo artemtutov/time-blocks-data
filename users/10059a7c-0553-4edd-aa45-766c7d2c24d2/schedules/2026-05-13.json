@@ -2,11 +2,21 @@
   "zones": [
     {
       "id": "b04bd27c-b411-46cb-9ad8-e1b493dceab9",
-      "start": "09:00",
+      "start": "10:30",
       "rows": [
         {
           "id": "3d6c6cfd-149f-42ca-bea6-2a5cc825c9cf",
-          "task": "A",
+          "task": "Autograde",
+          "dur": 30
+        },
+        {
+          "id": "04f4378b-7961-4cec-9646-cad3947b4d89",
+          "task": "Raj",
+          "dur": 30
+        },
+        {
+          "id": "4ae3ce0a-f0ed-42a0-848b-f930e3a42e5e",
+          "task": "LBO task",
           "dur": 30
         }
       ]
