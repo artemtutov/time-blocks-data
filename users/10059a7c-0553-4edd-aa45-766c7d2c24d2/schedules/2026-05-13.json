@@ -21,13 +21,18 @@
           "dur": 100
         },
         {
-          "id": "4ae3ce0a-f0ed-42a0-848b-f930e3a42e5e",
-          "task": "LBO task",
+          "id": "ac82643c-9322-4a37-8ea1-34379dac6981",
+          "task": "Break",
           "dur": 30
         },
         {
-          "id": "ac82643c-9322-4a37-8ea1-34379dac6981",
-          "task": "Break",
+          "id": "4ae3ce0a-f0ed-42a0-848b-f930e3a42e5e",
+          "task": "LBO task",
+          "dur": 120
+        },
+        {
+          "id": "ca0a5bdf-4307-495f-92a0-747bd8c76553",
+          "task": "Write message to Adriana",
           "dur": 30
         }
       ]
