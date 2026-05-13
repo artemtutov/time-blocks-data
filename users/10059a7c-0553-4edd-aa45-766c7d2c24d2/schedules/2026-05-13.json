@@ -24,6 +24,11 @@
           "id": "4ae3ce0a-f0ed-42a0-848b-f930e3a42e5e",
           "task": "LBO task",
           "dur": 30
+        },
+        {
+          "id": "ac82643c-9322-4a37-8ea1-34379dac6981",
+          "task": "Break",
+          "dur": 30
         }
       ]
     }
