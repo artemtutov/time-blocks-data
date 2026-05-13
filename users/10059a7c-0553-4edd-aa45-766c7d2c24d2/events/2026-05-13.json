@@ -16,5 +16,25 @@
     "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9",
     "before": "09:00",
     "after": "10:30"
+  },
+  {
+    "ts": 1778663136475,
+    "date": "2026-05-13",
+    "type": "task_edited",
+    "taskId": "3d6c6cfd-149f-42ca-bea6-2a5cc825c9cf",
+    "field": "task",
+    "before": "A",
+    "after": "Autograde",
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
+  },
+  {
+    "ts": 1778663136476,
+    "date": "2026-05-13",
+    "type": "task_added",
+    "taskId": "04f4378b-7961-4cec-9646-cad3947b4d89",
+    "task": "",
+    "dur": 30,
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9",
+    "index": 1
   }
 ]
