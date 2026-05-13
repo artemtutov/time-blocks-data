@@ -19,6 +19,11 @@
           "id": "4ae3ce0a-f0ed-42a0-848b-f930e3a42e5e",
           "task": "LBO task",
           "dur": 30
+        },
+        {
+          "id": "43f5109f-88ba-4e89-a443-63118b521460",
+          "task": "TimeBlocks",
+          "dur": 30
         }
       ]
     }
