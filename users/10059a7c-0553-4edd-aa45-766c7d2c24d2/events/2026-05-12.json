@@ -98,5 +98,35 @@
     "before": "LBO task",
     "after": "Other peope tasks",
     "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1"
+  },
+  {
+    "ts": 1778663104585,
+    "date": "2026-05-12",
+    "type": "task_edited",
+    "taskId": "af8fc766-b40c-4186-a0d1-81ab140516a3",
+    "field": "dur",
+    "before": 180,
+    "after": 480,
+    "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1"
+  },
+  {
+    "ts": 1778663105475,
+    "date": "2026-05-12",
+    "type": "task_added",
+    "taskId": "e16ccc6d-bbca-48cd-82d4-e3ce2f5f7f2d",
+    "task": "",
+    "dur": 30,
+    "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1",
+    "index": 3
+  },
+  {
+    "ts": 1778663107946,
+    "date": "2026-05-12",
+    "type": "task_edited",
+    "taskId": "af8fc766-b40c-4186-a0d1-81ab140516a3",
+    "field": "dur",
+    "before": 480,
+    "after": 400,
+    "zoneId": "19ace6f7-9afa-48af-ac5f-682c859c1dc1"
   }
 ]
