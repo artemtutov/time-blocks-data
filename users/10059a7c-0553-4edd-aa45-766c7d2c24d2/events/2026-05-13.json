@@ -36,5 +36,25 @@
     "dur": 30,
     "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9",
     "index": 1
+  },
+  {
+    "ts": 1778663139405,
+    "date": "2026-05-13",
+    "type": "task_edited",
+    "taskId": "04f4378b-7961-4cec-9646-cad3947b4d89",
+    "field": "task",
+    "before": "",
+    "after": "Raj",
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
+  },
+  {
+    "ts": 1778663139406,
+    "date": "2026-05-13",
+    "type": "task_added",
+    "taskId": "4ae3ce0a-f0ed-42a0-848b-f930e3a42e5e",
+    "task": "",
+    "dur": 30,
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9",
+    "index": 2
   }
 ]
