@@ -103,5 +103,34 @@
     "dur": 30,
     "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9",
     "index": 3
+  },
+  {
+    "ts": 1778676939611,
+    "date": "2026-05-13",
+    "type": "task_edited",
+    "taskId": "43f5109f-88ba-4e89-a443-63118b521460",
+    "field": "task",
+    "before": "",
+    "after": "TimeBlocks",
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
+  },
+  {
+    "ts": 1778676941053,
+    "date": "2026-05-13",
+    "type": "task_edited",
+    "taskId": "43f5109f-88ba-4e89-a443-63118b521460",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
+  },
+  {
+    "ts": 1778676943135,
+    "date": "2026-05-13",
+    "type": "task_moved",
+    "taskId": "43f5109f-88ba-4e89-a443-63118b521460",
+    "from": 3,
+    "to": 1,
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
   }
 ]
