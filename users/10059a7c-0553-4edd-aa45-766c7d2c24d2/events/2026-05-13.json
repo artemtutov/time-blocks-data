@@ -66,5 +66,22 @@
     "before": "",
     "after": "LBO task",
     "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
+  },
+  {
+    "ts": 1778666878458,
+    "date": "2026-05-13",
+    "type": "task_edited",
+    "taskId": "3d6c6cfd-149f-42ca-bea6-2a5cc825c9cf",
+    "field": "dur",
+    "before": 30,
+    "after": 40,
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
+  },
+  {
+    "ts": 1778666880106,
+    "date": "2026-05-13",
+    "type": "task_completed",
+    "taskId": "3d6c6cfd-149f-42ca-bea6-2a5cc825c9cf",
+    "zoneId": "b04bd27c-b411-46cb-9ad8-e1b493dceab9"
   }
 ]
