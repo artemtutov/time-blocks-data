@@ -263,5 +263,34 @@
     "before": "",
     "after": "Lunch",
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778784257786,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "d19f341c-d533-41e5-9097-309ffcaeb44a",
+    "field": "dur",
+    "before": 30,
+    "after": 240,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778784261033,
+    "date": "2026-05-14",
+    "type": "task_moved",
+    "taskId": "d19f341c-d533-41e5-9097-309ffcaeb44a",
+    "from": 8,
+    "to": 5,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778784265497,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "d19f341c-d533-41e5-9097-309ffcaeb44a",
+    "field": "dur",
+    "before": 240,
+    "after": 260,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
   }
 ]
