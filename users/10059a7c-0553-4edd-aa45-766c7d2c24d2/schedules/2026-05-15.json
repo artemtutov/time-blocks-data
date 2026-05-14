@@ -6,7 +6,12 @@
       "rows": [
         {
           "id": "64a2033a-cc23-4eab-85aa-09ea453bc0e5",
-          "task": "Jo",
+          "task": "John task",
+          "dur": 30
+        },
+        {
+          "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
+          "task": "Context & background",
           "dur": 30
         }
       ]
