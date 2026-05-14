@@ -31,17 +31,20 @@
         {
           "id": "86e5199b-ba4c-438c-9884-908adaeab038",
           "task": "Time blocks",
-          "dur": 75
+          "dur": 75,
+          "done": true
         },
         {
           "id": "d19f341c-d533-41e5-9097-309ffcaeb44a",
           "task": "Lunch",
-          "dur": 240
+          "dur": 260,
+          "done": true
         },
         {
           "id": "de8b2eb5-8de2-4106-a8b6-9dcfd89acd87",
           "task": "LBO task - update / cleanup",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "415c4797-5a34-45cd-89c2-8f90fd45e230",
@@ -51,6 +54,11 @@
         {
           "id": "349f3f35-bd98-4396-9a9d-fc80518b802a",
           "task": "LBO task - rubric",
+          "dur": 30
+        },
+        {
+          "id": "a7a321f2-ea7e-4ecc-805d-6e7ee2eb5edf",
+          "task": "",
           "dur": 30
         }
       ]
