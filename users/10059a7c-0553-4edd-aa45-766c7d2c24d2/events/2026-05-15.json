@@ -175,5 +175,14 @@
     "before": "",
     "after": "Add LTM numbers",
     "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778794044250,
+    "date": "2026-05-15",
+    "type": "task_moved",
+    "taskId": "5f287656-0557-46b5-8a15-dd8635b84d10",
+    "from": 6,
+    "to": 3,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
   }
 ]
