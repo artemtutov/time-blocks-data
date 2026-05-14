@@ -34,6 +34,11 @@
           "dur": 75
         },
         {
+          "id": "d19f341c-d533-41e5-9097-309ffcaeb44a",
+          "task": "Lunch",
+          "dur": 240
+        },
+        {
           "id": "de8b2eb5-8de2-4106-a8b6-9dcfd89acd87",
           "task": "LBO task - update / cleanup",
           "dur": 30
@@ -47,11 +52,6 @@
           "id": "349f3f35-bd98-4396-9a9d-fc80518b802a",
           "task": "LBO task - rubric",
           "dur": 30
-        },
-        {
-          "id": "d19f341c-d533-41e5-9097-309ffcaeb44a",
-          "task": "Lunch",
-          "dur": 240
         }
       ]
     }
