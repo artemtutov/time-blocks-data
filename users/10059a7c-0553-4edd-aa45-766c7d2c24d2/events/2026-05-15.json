@@ -76,5 +76,25 @@
     "dur": 30,
     "zoneId": "21f04953-619a-430a-826f-b323033e7e35",
     "index": 3
+  },
+  {
+    "ts": 1778794016819,
+    "date": "2026-05-15",
+    "type": "task_edited",
+    "taskId": "42038608-5d2d-4246-8b38-54ee4fa7f926",
+    "field": "task",
+    "before": "",
+    "after": "run model",
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778794016819,
+    "date": "2026-05-15",
+    "type": "task_added",
+    "taskId": "de7173f0-de35-4fa7-994e-fae6550a0250",
+    "task": "",
+    "dur": 30,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35",
+    "index": 4
   }
 ]
