@@ -7,17 +7,20 @@
         {
           "id": "e1a65f6a-8dd8-401d-91af-8c92a2f55374",
           "task": "Visa application",
-          "dur": 60
+          "dur": 60,
+          "done": true
         },
         {
           "id": "ac84b068-2897-462f-a492-7d42437b516a",
           "task": "MCP",
-          "dur": 120
+          "dur": 120,
+          "done": true
         },
         {
           "id": "b1a98af8-d826-4497-916c-bf1e34607bbe",
           "task": "Chat with Tati",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "e8137564-afb4-4e1b-a78c-5fe8d59f2b7e",
@@ -43,6 +46,11 @@
         {
           "id": "349f3f35-bd98-4396-9a9d-fc80518b802a",
           "task": "LBO task - rubric",
+          "dur": 30
+        },
+        {
+          "id": "d19f341c-d533-41e5-9097-309ffcaeb44a",
+          "task": "Lunch",
           "dur": 30
         }
       ]
