@@ -5,6 +5,11 @@
       "start": "09:00",
       "rows": [
         {
+          "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
+          "task": "Clean up rubric",
+          "dur": 30
+        },
+        {
           "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
           "task": "Context & background",
           "dur": 30
@@ -15,8 +20,8 @@
           "dur": 30
         },
         {
-          "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
-          "task": "Clean up rubric",
+          "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
+          "task": "run model",
           "dur": 30
         }
       ]
