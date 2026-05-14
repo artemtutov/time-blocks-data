@@ -113,5 +113,25 @@
     "type": "task_completed",
     "taskId": "e8137564-afb4-4e1b-a78c-5fe8d59f2b7e",
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767773239,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "de8b2eb5-8de2-4106-a8b6-9dcfd89acd87",
+    "field": "task",
+    "before": "",
+    "after": "LBO task - update / cleanup",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767773239,
+    "date": "2026-05-14",
+    "type": "task_added",
+    "taskId": "415c4797-5a34-45cd-89c2-8f90fd45e230",
+    "task": "",
+    "dur": 30,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+    "index": 5
   }
 ]
