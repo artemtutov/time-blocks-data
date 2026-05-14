@@ -36,5 +36,15 @@
     "before": "",
     "after": "MCP",
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767748965,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "e1a65f6a-8dd8-401d-91af-8c92a2f55374",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
   }
 ]
