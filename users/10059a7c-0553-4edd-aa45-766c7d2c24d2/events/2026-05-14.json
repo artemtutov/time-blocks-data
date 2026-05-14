@@ -66,5 +66,25 @@
     "dur": 30,
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
     "index": 2
+  },
+  {
+    "ts": 1778767759885,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "b1a98af8-d826-4497-916c-bf1e34607bbe",
+    "field": "task",
+    "before": "",
+    "after": "Chat with Tati",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767759886,
+    "date": "2026-05-14",
+    "type": "task_added",
+    "taskId": "e8137564-afb4-4e1b-a78c-5fe8d59f2b7e",
+    "task": "",
+    "dur": 30,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+    "index": 3
   }
 ]
