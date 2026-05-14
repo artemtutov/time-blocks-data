@@ -133,5 +133,25 @@
     "dur": 30,
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
     "index": 5
+  },
+  {
+    "ts": 1778767779673,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "415c4797-5a34-45cd-89c2-8f90fd45e230",
+    "field": "task",
+    "before": "",
+    "after": "LBO task - prompt",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767779674,
+    "date": "2026-05-14",
+    "type": "task_added",
+    "taskId": "349f3f35-bd98-4396-9a9d-fc80518b802a",
+    "task": "",
+    "dur": 30,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+    "index": 6
   }
 ]
