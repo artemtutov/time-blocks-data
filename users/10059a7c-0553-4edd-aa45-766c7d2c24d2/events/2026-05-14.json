@@ -1,0 +1,30 @@
+[
+  {
+    "ts": 1778767738964,
+    "date": "2026-05-14",
+    "type": "zone_start_changed",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+    "before": "09:00",
+    "after": "10:00"
+  },
+  {
+    "ts": 1778767740440,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "e1a65f6a-8dd8-401d-91af-8c92a2f55374",
+    "field": "task",
+    "before": "",
+    "after": "Visa application",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767740441,
+    "date": "2026-05-14",
+    "type": "task_added",
+    "taskId": "ac84b068-2897-462f-a492-7d42437b516a",
+    "task": "",
+    "dur": 30,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+    "index": 1
+  }
+]
