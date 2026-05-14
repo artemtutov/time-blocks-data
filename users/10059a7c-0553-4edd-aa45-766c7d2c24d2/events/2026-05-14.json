@@ -313,5 +313,48 @@
     "type": "task_completed",
     "taskId": "de8b2eb5-8de2-4106-a8b6-9dcfd89acd87",
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778785243502,
+    "date": "2026-05-14",
+    "type": "task_added",
+    "taskId": "a7a321f2-ea7e-4ecc-805d-6e7ee2eb5edf",
+    "task": "",
+    "dur": 30,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+    "index": 9
+  },
+  {
+    "ts": 1778785256318,
+    "date": "2026-05-14",
+    "type": "task_edited",
+    "taskId": "a7a321f2-ea7e-4ecc-805d-6e7ee2eb5edf",
+    "field": "task",
+    "before": "",
+    "after": "Go through the model",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778785257043,
+    "date": "2026-05-14",
+    "type": "task_moved",
+    "taskId": "a7a321f2-ea7e-4ecc-805d-6e7ee2eb5edf",
+    "from": 9,
+    "to": 8,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778786278208,
+    "date": "2026-05-14",
+    "type": "task_completed",
+    "taskId": "415c4797-5a34-45cd-89c2-8f90fd45e230",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778793990658,
+    "date": "2026-05-14",
+    "type": "task_completed",
+    "taskId": "349f3f35-bd98-4396-9a9d-fc80518b802a",
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
   }
 ]
