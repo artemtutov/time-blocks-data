@@ -1,0 +1,20 @@
+{
+  "zones": [
+    {
+      "id": "9b291962-10f1-4eef-8bcd-ed243aa53f23",
+      "start": "10:00",
+      "rows": [
+        {
+          "id": "e1a65f6a-8dd8-401d-91af-8c92a2f55374",
+          "task": "Visa application",
+          "dur": 30
+        },
+        {
+          "id": "ac84b068-2897-462f-a492-7d42437b516a",
+          "task": "MCP",
+          "dur": 30
+        }
+      ]
+    }
+  ]
+}
