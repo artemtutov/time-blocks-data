@@ -193,5 +193,14 @@
     "before": "Time blcols",
     "after": "Time blocks",
     "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
+  },
+  {
+    "ts": 1778767802967,
+    "date": "2026-05-14",
+    "type": "task_moved",
+    "taskId": "86e5199b-ba4c-438c-9884-908adaeab038",
+    "from": 7,
+    "to": 4,
+    "zoneId": "9b291962-10f1-4eef-8bcd-ed243aa53f23"
   }
 ]
