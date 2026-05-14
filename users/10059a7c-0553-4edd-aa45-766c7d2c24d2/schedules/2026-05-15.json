@@ -5,13 +5,18 @@
       "start": "09:00",
       "rows": [
         {
+          "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
+          "task": "Context & background",
+          "dur": 30
+        },
+        {
           "id": "64a2033a-cc23-4eab-85aa-09ea453bc0e5",
           "task": "John task",
           "dur": 30
         },
         {
-          "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
-          "task": "Context & background",
+          "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
+          "task": "Clean up rubric",
           "dur": 30
         }
       ]
