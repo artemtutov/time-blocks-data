@@ -47,5 +47,34 @@
     "dur": 30,
     "zoneId": "21f04953-619a-430a-826f-b323033e7e35",
     "index": 2
+  },
+  {
+    "ts": 1778794011609,
+    "date": "2026-05-15",
+    "type": "task_edited",
+    "taskId": "bf220585-3622-4d35-a191-0a30fa158cc1",
+    "field": "task",
+    "before": "",
+    "after": "Clean up rubric",
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778794012475,
+    "date": "2026-05-15",
+    "type": "task_moved",
+    "taskId": "bf220585-3622-4d35-a191-0a30fa158cc1",
+    "from": 2,
+    "to": 0,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778794013234,
+    "date": "2026-05-15",
+    "type": "task_added",
+    "taskId": "42038608-5d2d-4246-8b38-54ee4fa7f926",
+    "task": "",
+    "dur": 30,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35",
+    "index": 3
   }
 ]
