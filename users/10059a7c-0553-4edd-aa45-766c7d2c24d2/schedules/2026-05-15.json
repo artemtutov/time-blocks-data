@@ -28,6 +28,11 @@
           "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
           "task": "grade",
           "dur": 30
+        },
+        {
+          "id": "e03580d8-0de8-4625-88d0-3d1fc63d900f",
+          "task": "go through model",
+          "dur": 30
         }
       ]
     }
