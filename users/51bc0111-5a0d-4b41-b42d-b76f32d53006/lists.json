@@ -8,6 +8,18 @@
         "text": "",
         "checked": false,
         "addedAt": 1778871318112
+      },
+      {
+        "id": "30756d26-a3d1-442c-abb2-315975638075",
+        "text": "",
+        "checked": false,
+        "addedAt": 1778871673632
+      },
+      {
+        "id": "73977f99-1144-4c14-ba18-20030a14498b",
+        "text": "",
+        "checked": false,
+        "addedAt": 1778871674358
       }
     ],
     "color": null,
@@ -15,6 +27,6 @@
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778871577691
+    "updatedAt": 1778871674358
   }
 ]
