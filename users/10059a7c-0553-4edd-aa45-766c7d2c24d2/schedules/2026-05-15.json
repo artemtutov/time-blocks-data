@@ -7,22 +7,32 @@
         {
           "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
           "task": "Clean up rubric",
-          "dur": 210
+          "dur": 210,
+          "done": true
         },
         {
           "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
           "task": "run model",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
           "task": "grade",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "63591445-2478-41fb-a5c9-adcb481e6473",
           "task": "Do the file",
-          "dur": 30
+          "dur": 30,
+          "done": true
+        },
+        {
+          "id": "41462f81-6307-4c90-ae2b-16dc6cb793ce",
+          "task": "Break",
+          "dur": 30,
+          "done": true
         },
         {
           "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
@@ -47,11 +57,6 @@
         {
           "id": "a55ace87-4bcd-413a-aace-1a1fb66b8a72",
           "task": "Add comments",
-          "dur": 30
-        },
-        {
-          "id": "41462f81-6307-4c90-ae2b-16dc6cb793ce",
-          "task": "Break",
           "dur": 30
         }
       ]
