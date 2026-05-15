@@ -4,10 +4,10 @@
     "title": "New list",
     "items": [],
     "color": null,
-    "inMemory": false,
+    "inMemory": true,
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778872343508
+    "updatedAt": 1778872413988
   }
 ]
