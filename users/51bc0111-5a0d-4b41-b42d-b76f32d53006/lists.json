@@ -106,6 +106,17 @@
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778873573836,
-    "updatedAt": 1778873573836
+    "updatedAt": 1778873576034
+  },
+  {
+    "id": "cdafde27-6c0e-4509-a372-6cf7ee9a1603",
+    "title": "",
+    "items": [],
+    "color": null,
+    "inMemory": true,
+    "laneId": "unsorted",
+    "dayDate": null,
+    "createdAt": 1778873577021,
+    "updatedAt": 1778873577021
   }
 ]
