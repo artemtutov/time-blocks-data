@@ -7,11 +7,16 @@
         {
           "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
           "task": "Clean up rubric",
-          "dur": 180
+          "dur": 210
         },
         {
           "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
           "task": "run model",
+          "dur": 30
+        },
+        {
+          "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
+          "task": "grade",
           "dur": 30
         },
         {
@@ -22,11 +27,6 @@
         {
           "id": "63591445-2478-41fb-a5c9-adcb481e6473",
           "task": "Do the file",
-          "dur": 30
-        },
-        {
-          "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
-          "task": "grade",
           "dur": 30
         },
         {
