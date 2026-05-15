@@ -266,5 +266,24 @@
     "before": "",
     "after": "Do the file",
     "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778837410214,
+    "date": "2026-05-15",
+    "type": "task_moved",
+    "taskId": "63591445-2478-41fb-a5c9-adcb481e6473",
+    "from": 7,
+    "to": 2,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778837429236,
+    "date": "2026-05-15",
+    "type": "task_added",
+    "taskId": "a55ace87-4bcd-413a-aace-1a1fb66b8a72",
+    "task": "",
+    "dur": 30,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35",
+    "index": 8
   }
 ]
