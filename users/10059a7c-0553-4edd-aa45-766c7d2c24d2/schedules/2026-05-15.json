@@ -7,7 +7,7 @@
         {
           "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
           "task": "Clean up rubric",
-          "dur": 210
+          "dur": 240
         },
         {
           "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
@@ -17,6 +17,11 @@
         {
           "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
           "task": "grade",
+          "dur": 30
+        },
+        {
+          "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
+          "task": "Context & background",
           "dur": 30
         },
         {
@@ -32,11 +37,6 @@
         {
           "id": "64a2033a-cc23-4eab-85aa-09ea453bc0e5",
           "task": "John task",
-          "dur": 30
-        },
-        {
-          "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
-          "task": "Context & background",
           "dur": 30
         },
         {
