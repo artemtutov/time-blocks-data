@@ -1,0 +1,40 @@
+{
+  "zones": [
+    {
+      "id": "7c60ea9b-c0c0-4242-b484-b1749efb317c",
+      "start": "09:00",
+      "rows": [
+        {
+          "id": "0703c7a2-000d-4c25-a637-41095fd4571c",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "b1e48fc8-a492-47df-b10e-c7c67fb495ff",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "ed29c450-ef1f-43f6-b12d-781f734a62e0",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    },
+    {
+      "id": "4ec0c286-5c99-4cf9-8195-e187168381f4",
+      "start": "09:30",
+      "rows": [
+        {
+          "id": "4415b72a-7fb9-4348-beb2-6f8d27dba025",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    }
+  ]
+}
