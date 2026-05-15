@@ -13,7 +13,8 @@
         "id": "96753169-5460-4102-bd4c-d026d65a8729",
         "text": "",
         "checked": false,
-        "addedAt": 1778871898825
+        "addedAt": 1778871898825,
+        "checkable": true
       },
       {
         "id": "1d248cd9-b74a-4cd1-a365-5837afb0c4b1",
@@ -33,6 +34,6 @@
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778871986163
+    "updatedAt": 1778871987748
   }
 ]
