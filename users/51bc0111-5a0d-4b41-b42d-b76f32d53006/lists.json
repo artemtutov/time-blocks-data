@@ -8,32 +8,6 @@
         "text": "efjlkhdhfgdjkhgfkjdhgjklfdshgjkfldshgjfdklshgljkfdshgjklfdhgjkfldshg",
         "checked": false,
         "addedAt": 1778871318112
-      },
-      {
-        "id": "96753169-5460-4102-bd4c-d026d65a8729",
-        "text": "jdfkshkfjhdlkjfhd",
-        "checked": false,
-        "addedAt": 1778871898825,
-        "checkable": true
-      },
-      {
-        "id": "1d248cd9-b74a-4cd1-a365-5837afb0c4b1",
-        "text": "",
-        "checked": false,
-        "addedAt": 1778871899164
-      },
-      {
-        "id": "4091db06-c6a8-40f6-a8fc-9aa3ad6dc394",
-        "text": "",
-        "checked": false,
-        "addedAt": 1778871899361
-      },
-      {
-        "id": "919e4c3a-0656-4453-ba53-7ab0a5fd841c",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778871990120
       }
     ],
     "color": null,
@@ -41,6 +15,6 @@
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778871990120
+    "updatedAt": 1778872000488
   }
 ]
