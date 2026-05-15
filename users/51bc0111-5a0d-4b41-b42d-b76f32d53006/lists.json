@@ -2,19 +2,12 @@
   {
     "id": "e129d83e-b064-4f22-805d-aea7f1f756f8",
     "title": "New list",
-    "items": [
-      {
-        "id": "e7e55f32-0d74-4cb6-82bb-dbd98e3aaac1",
-        "text": "efjlkhdhfgdjkhgfkjdhgjklfdshgjkfldshgjfdklshgljkfdshgjklfdhgjkfldshg",
-        "checked": false,
-        "addedAt": 1778871318112
-      }
-    ],
+    "items": [],
     "color": null,
     "inMemory": true,
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778872000488
+    "updatedAt": 1778872007241
   }
 ]
