@@ -20,5 +20,16 @@
     "dayDate": null,
     "createdAt": 1778872638805,
     "updatedAt": 1778872638805
+  },
+  {
+    "id": "abbf25c3-6069-457e-b72f-21d2cb343f72",
+    "title": "",
+    "items": [],
+    "color": null,
+    "inMemory": true,
+    "laneId": "unsorted",
+    "dayDate": null,
+    "createdAt": 1778873227544,
+    "updatedAt": 1778873227544
   }
 ]
