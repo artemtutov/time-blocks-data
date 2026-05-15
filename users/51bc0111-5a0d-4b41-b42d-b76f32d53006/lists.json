@@ -1,5 +1,17 @@
 [
   {
+    "id": "3c81619f-da2f-433c-b316-e87704b326b9",
+    "title": "2",
+    "items": [],
+    "color": null,
+    "inMemory": true,
+    "laneId": "unsorted",
+    "dayDate": null,
+    "createdAt": 1778873233732,
+    "updatedAt": 1778879983906,
+    "column": 1
+  },
+  {
     "id": "ad69fa8f-2940-4381-a815-f2dfb9adab1c",
     "title": "1",
     "items": [
@@ -41,17 +53,6 @@
     "dayDate": null,
     "createdAt": 1778873232454,
     "updatedAt": 1778873242685
-  },
-  {
-    "id": "3c81619f-da2f-433c-b316-e87704b326b9",
-    "title": "2",
-    "items": [],
-    "color": null,
-    "inMemory": true,
-    "laneId": "unsorted",
-    "dayDate": null,
-    "createdAt": 1778873233732,
-    "updatedAt": 1778873607850
   },
   {
     "id": "abbf25c3-6069-457e-b72f-21d2cb343f72",
