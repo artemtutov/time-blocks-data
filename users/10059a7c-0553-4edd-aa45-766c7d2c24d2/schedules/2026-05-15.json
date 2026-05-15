@@ -15,6 +15,11 @@
           "dur": 60
         },
         {
+          "id": "63591445-2478-41fb-a5c9-adcb481e6473",
+          "task": "Do the file",
+          "dur": 30
+        },
+        {
           "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
           "task": "run model",
           "dur": 30
@@ -37,11 +42,6 @@
         {
           "id": "5f287656-0557-46b5-8a15-dd8635b84d10",
           "task": "Add LTM numbers",
-          "dur": 30
-        },
-        {
-          "id": "63591445-2478-41fb-a5c9-adcb481e6473",
-          "task": "Do the file",
           "dur": 30
         }
       ]
