@@ -11,7 +11,7 @@
       },
       {
         "id": "96753169-5460-4102-bd4c-d026d65a8729",
-        "text": "",
+        "text": "jdfkshkfjhdlkjfhd",
         "checked": false,
         "addedAt": 1778871898825,
         "checkable": true
@@ -27,6 +27,13 @@
         "text": "",
         "checked": false,
         "addedAt": 1778871899361
+      },
+      {
+        "id": "919e4c3a-0656-4453-ba53-7ab0a5fd841c",
+        "text": "",
+        "checked": false,
+        "checkable": false,
+        "addedAt": 1778871990120
       }
     ],
     "color": null,
@@ -34,6 +41,6 @@
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778871987748
+    "updatedAt": 1778871990120
   }
 ]
