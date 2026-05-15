@@ -100,13 +100,21 @@
   {
     "id": "a1fec1da-20d2-41c5-b6bc-1064843acaff",
     "title": "",
-    "items": [],
+    "items": [
+      {
+        "id": "0a2eb3dd-18e6-40f2-82e5-4597825676ee",
+        "text": "",
+        "checked": false,
+        "checkable": false,
+        "addedAt": 1778873634242
+      }
+    ],
     "color": null,
     "inMemory": true,
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778873573836,
-    "updatedAt": 1778873588425
+    "updatedAt": 1778873634242
   },
   {
     "id": "cdafde27-6c0e-4509-a372-6cf7ee9a1603",
