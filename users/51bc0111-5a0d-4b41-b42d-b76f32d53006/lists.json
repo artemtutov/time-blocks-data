@@ -24,11 +24,11 @@
     "title": "New list",
     "items": [],
     "color": null,
-    "inMemory": true,
+    "inMemory": false,
     "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778874226088,
+    "updatedAt": 1778875698663,
     "column": 1
   },
   {
