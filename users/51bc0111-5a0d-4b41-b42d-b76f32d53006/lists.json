@@ -105,6 +105,17 @@
     "updatedAt": 1778873899984
   },
   {
+    "id": "cdafde27-6c0e-4509-a372-6cf7ee9a1603",
+    "title": "",
+    "items": [],
+    "color": null,
+    "inMemory": true,
+    "laneId": "unsorted",
+    "dayDate": null,
+    "createdAt": 1778873577021,
+    "updatedAt": 1778873901954
+  },
+  {
     "id": "a1fec1da-20d2-41c5-b6bc-1064843acaff",
     "title": "",
     "items": [
@@ -150,16 +161,5 @@
     "dayDate": null,
     "createdAt": 1778873573836,
     "updatedAt": 1778873712007
-  },
-  {
-    "id": "cdafde27-6c0e-4509-a372-6cf7ee9a1603",
-    "title": "",
-    "items": [],
-    "color": null,
-    "inMemory": true,
-    "laneId": "unsorted",
-    "dayDate": null,
-    "createdAt": 1778873577021,
-    "updatedAt": 1778873577021
   }
 ]
