@@ -5,5 +5,25 @@
     "type": "zone_added",
     "zoneId": "4ec0c286-5c99-4cf9-8195-e187168381f4",
     "start": "09:30"
+  },
+  {
+    "ts": 1778871410827,
+    "date": "2026-05-15",
+    "type": "task_added",
+    "taskId": "b1e48fc8-a492-47df-b10e-c7c67fb495ff",
+    "task": "",
+    "dur": 30,
+    "zoneId": "7c60ea9b-c0c0-4242-b484-b1749efb317c",
+    "index": 1
+  },
+  {
+    "ts": 1778871411684,
+    "date": "2026-05-15",
+    "type": "task_added",
+    "taskId": "ed29c450-ef1f-43f6-b12d-781f734a62e0",
+    "task": "",
+    "dur": 30,
+    "zoneId": "7c60ea9b-c0c0-4242-b484-b1749efb317c",
+    "index": 2
   }
 ]
