@@ -228,5 +228,43 @@
     "from": 6,
     "to": 2,
     "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778837376415,
+    "date": "2026-05-15",
+    "type": "task_moved",
+    "taskId": "42038608-5d2d-4246-8b38-54ee4fa7f926",
+    "from": 5,
+    "to": 2,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778837381843,
+    "date": "2026-05-15",
+    "type": "task_moved",
+    "taskId": "de7173f0-de35-4fa7-994e-fae6550a0250",
+    "from": 6,
+    "to": 3,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778837384272,
+    "date": "2026-05-15",
+    "type": "task_added",
+    "taskId": "63591445-2478-41fb-a5c9-adcb481e6473",
+    "task": "",
+    "dur": 30,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35",
+    "index": 7
+  },
+  {
+    "ts": 1778837399795,
+    "date": "2026-05-15",
+    "type": "task_edited",
+    "taskId": "63591445-2478-41fb-a5c9-adcb481e6473",
+    "field": "task",
+    "before": "",
+    "after": "Do the file",
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
   }
 ]
