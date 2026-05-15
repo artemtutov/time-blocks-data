@@ -10,6 +10,11 @@
           "dur": 180
         },
         {
+          "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
+          "task": "run model",
+          "dur": 30
+        },
+        {
           "id": "e03580d8-0de8-4625-88d0-3d1fc63d900f",
           "task": "go through model",
           "dur": 60
@@ -17,11 +22,6 @@
         {
           "id": "63591445-2478-41fb-a5c9-adcb481e6473",
           "task": "Do the file",
-          "dur": 30
-        },
-        {
-          "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
-          "task": "run model",
           "dur": 30
         },
         {
