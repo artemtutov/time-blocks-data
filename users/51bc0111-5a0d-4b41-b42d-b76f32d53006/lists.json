@@ -107,6 +107,13 @@
         "checked": false,
         "checkable": false,
         "addedAt": 1778873634242
+      },
+      {
+        "id": "aa5e69f6-05e4-4e09-85cc-1b3a8141765e",
+        "text": "",
+        "checked": false,
+        "checkable": false,
+        "addedAt": 1778873638923
       }
     ],
     "color": null,
@@ -114,7 +121,7 @@
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778873573836,
-    "updatedAt": 1778873634242
+    "updatedAt": 1778873638923
   },
   {
     "id": "cdafde27-6c0e-4509-a372-6cf7ee9a1603",
