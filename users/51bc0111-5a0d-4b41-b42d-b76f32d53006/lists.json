@@ -11,11 +11,11 @@
       }
     ],
     "color": null,
-    "inMemory": false,
-    "laneId": null,
+    "inMemory": true,
+    "laneId": "unsorted",
     "dayDate": "2026-05-15",
     "createdAt": 1778871309356,
-    "updatedAt": 1778871318112
+    "updatedAt": 1778871330704
   },
   {
     "id": "55f7c8a3-13f8-49a9-9ce5-6d2d6ba87b1c",
