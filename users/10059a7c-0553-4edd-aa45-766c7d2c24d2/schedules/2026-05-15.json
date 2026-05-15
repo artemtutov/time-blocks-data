@@ -7,7 +7,7 @@
         {
           "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
           "task": "Clean up rubric",
-          "dur": 240
+          "dur": 210
         },
         {
           "id": "42038608-5d2d-4246-8b38-54ee4fa7f926",
@@ -47,6 +47,11 @@
         {
           "id": "a55ace87-4bcd-413a-aace-1a1fb66b8a72",
           "task": "Add comments",
+          "dur": 30
+        },
+        {
+          "id": "41462f81-6307-4c90-ae2b-16dc6cb793ce",
+          "task": "Break",
           "dur": 30
         }
       ]
