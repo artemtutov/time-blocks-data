@@ -352,5 +352,25 @@
     "from": 6,
     "to": 3,
     "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778853842517,
+    "date": "2026-05-15",
+    "type": "task_edited",
+    "taskId": "bf220585-3622-4d35-a191-0a30fa158cc1",
+    "field": "dur",
+    "before": 210,
+    "after": 240,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
+  },
+  {
+    "ts": 1778853844936,
+    "date": "2026-05-15",
+    "type": "task_edited",
+    "taskId": "42038608-5d2d-4246-8b38-54ee4fa7f926",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "21f04953-619a-430a-826f-b323033e7e35"
   }
 ]
