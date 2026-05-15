@@ -9,48 +9,6 @@
         "checked": false,
         "checkable": false,
         "addedAt": 1778873248966
-      },
-      {
-        "id": "68ee2485-0335-4abc-be09-d7bf71eb03dc",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778873249871
-      },
-      {
-        "id": "916addfb-69f0-4e2d-b91c-8f843e7569e7",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778873250109
-      },
-      {
-        "id": "9d280066-9fd6-455c-b681-18a4f0707860",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778873250296
-      },
-      {
-        "id": "35638743-abc7-456e-bf33-c9e44ed370ed",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778873250512
-      },
-      {
-        "id": "55293bce-195d-4f75-bda0-c4ffa56941b0",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778873250710
-      },
-      {
-        "id": "4de473de-a8ae-4683-892f-a5ba02fc0f76",
-        "text": "",
-        "checked": false,
-        "checkable": false,
-        "addedAt": 1778873709139
       }
     ],
     "color": null,
@@ -58,7 +16,7 @@
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778872638805,
-    "updatedAt": 1778874224184,
+    "updatedAt": 1778874349212,
     "column": 1
   },
   {
