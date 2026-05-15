@@ -23,7 +23,7 @@
   },
   {
     "id": "ad69fa8f-2940-4381-a815-f2dfb9adab1c",
-    "title": "",
+    "title": "1",
     "items": [
       {
         "id": "8a6ce161-3cb0-4237-ba25-631cf53cee6b",
@@ -73,28 +73,28 @@
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778872638805,
-    "updatedAt": 1778873250710
+    "updatedAt": 1778873431690
   },
   {
     "id": "abbf25c3-6069-457e-b72f-21d2cb343f72",
-    "title": "",
+    "title": "3",
     "items": [],
     "color": null,
     "inMemory": true,
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778873227544,
-    "updatedAt": 1778873403454
+    "updatedAt": 1778873433250
   },
   {
     "id": "3c81619f-da2f-433c-b316-e87704b326b9",
-    "title": "",
+    "title": "2",
     "items": [],
     "color": null,
     "inMemory": true,
     "laneId": "unsorted",
     "dayDate": null,
     "createdAt": 1778873233732,
-    "updatedAt": 1778873405704
+    "updatedAt": 1778873432663
   }
 ]
