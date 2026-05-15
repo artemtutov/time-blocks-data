@@ -5,14 +5,14 @@
       "start": "10:00",
       "rows": [
         {
-          "id": "e03580d8-0de8-4625-88d0-3d1fc63d900f",
-          "task": "go through model",
-          "dur": 60
-        },
-        {
           "id": "bf220585-3622-4d35-a191-0a30fa158cc1",
           "task": "Clean up rubric",
           "dur": 90
+        },
+        {
+          "id": "e03580d8-0de8-4625-88d0-3d1fc63d900f",
+          "task": "go through model",
+          "dur": 60
         },
         {
           "id": "134130b7-9371-4cd4-88d4-033e1d35a425",
