@@ -31,5 +31,27 @@
     "dayDate": null,
     "createdAt": 1778873227544,
     "updatedAt": 1778873227544
+  },
+  {
+    "id": "774924ce-fda0-4358-ae07-46b6755bf292",
+    "title": "",
+    "items": [],
+    "color": null,
+    "inMemory": true,
+    "laneId": "unsorted",
+    "dayDate": null,
+    "createdAt": 1778873232454,
+    "updatedAt": 1778873232454
+  },
+  {
+    "id": "3c81619f-da2f-433c-b316-e87704b326b9",
+    "title": "",
+    "items": [],
+    "color": null,
+    "inMemory": true,
+    "laneId": "unsorted",
+    "dayDate": null,
+    "createdAt": 1778873233732,
+    "updatedAt": 1778873233732
   }
 ]
