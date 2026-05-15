@@ -20,6 +20,11 @@
           "dur": 30
         },
         {
+          "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
+          "task": "grade",
+          "dur": 30
+        },
+        {
           "id": "64a2033a-cc23-4eab-85aa-09ea453bc0e5",
           "task": "John task",
           "dur": 30
@@ -32,11 +37,6 @@
         {
           "id": "5f287656-0557-46b5-8a15-dd8635b84d10",
           "task": "Add LTM numbers",
-          "dur": 30
-        },
-        {
-          "id": "de7173f0-de35-4fa7-994e-fae6550a0250",
-          "task": "grade",
           "dur": 30
         }
       ]
