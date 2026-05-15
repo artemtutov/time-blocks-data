@@ -1,0 +1,19 @@
+[
+  {
+    "id": "sync-test",
+    "title": "Sync test",
+    "items": [
+      {
+        "id": "a",
+        "text": "Round-trip works",
+        "checked": false
+      }
+    ],
+    "color": null,
+    "inMemory": false,
+    "laneId": null,
+    "dayDate": "2026-05-15",
+    "createdAt": 1747300000000,
+    "updatedAt": 1747300000000
+  }
+]
