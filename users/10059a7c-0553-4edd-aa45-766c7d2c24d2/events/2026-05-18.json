@@ -38,5 +38,15 @@
     "dur": 30,
     "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66",
     "index": 2
+  },
+  {
+    "ts": 1779026579341,
+    "date": "2026-05-18",
+    "type": "task_edited",
+    "taskId": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
+    "field": "task",
+    "before": "",
+    "after": "Short tasks",
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
   }
 ]
