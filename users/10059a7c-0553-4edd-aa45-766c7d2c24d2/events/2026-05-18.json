@@ -1,0 +1,22 @@
+[
+  {
+    "ts": 1779026569309,
+    "date": "2026-05-18",
+    "type": "task_added",
+    "taskId": "8c8a29c5-5324-4e36-87df-61a9ab797689",
+    "task": "",
+    "dur": 30,
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66",
+    "index": 1
+  },
+  {
+    "ts": 1779026573794,
+    "date": "2026-05-18",
+    "type": "task_edited",
+    "taskId": "c30cdb69-bdd3-4b68-a8ed-241485723d91",
+    "field": "task",
+    "before": "",
+    "after": "Chris",
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
+  }
+]
