@@ -7,12 +7,14 @@
         {
           "id": "c30cdb69-bdd3-4b68-a8ed-241485723d91",
           "task": "Chris",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "8c8a29c5-5324-4e36-87df-61a9ab797689",
           "task": "Mugul",
-          "dur": 30
+          "dur": 30,
+          "done": true
         },
         {
           "id": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
