@@ -76,5 +76,20 @@
     "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66",
     "before": "09:00",
     "after": "10:30"
+  },
+  {
+    "ts": 1779099949028,
+    "date": "2026-05-18",
+    "type": "zone_start_changed",
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66",
+    "before": "10:30",
+    "after": "11:30"
+  },
+  {
+    "ts": 1779100968968,
+    "date": "2026-05-18",
+    "type": "task_completed",
+    "taskId": "c30cdb69-bdd3-4b68-a8ed-241485723d91",
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
   }
 ]
