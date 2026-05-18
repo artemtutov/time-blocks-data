@@ -134,5 +134,24 @@
     "before": "",
     "after": "Break",
     "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
+  },
+  {
+    "ts": 1779104956687,
+    "date": "2026-05-18",
+    "type": "task_moved",
+    "taskId": "87a21cd7-db20-4910-8a52-4f2a3e8c7d0c",
+    "from": 4,
+    "to": 3,
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
+  },
+  {
+    "ts": 1779104960276,
+    "date": "2026-05-18",
+    "type": "task_edited",
+    "taskId": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
+    "field": "dur",
+    "before": 30,
+    "after": 90,
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
   }
 ]
