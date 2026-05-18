@@ -17,13 +17,14 @@
           "done": true
         },
         {
-          "id": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
-          "task": "Short tasks",
-          "dur": 30
-        },
-        {
           "id": "5efa29de-47fa-4e13-958b-ea0cb3bb6cfb",
           "task": "Ask Amit",
+          "dur": 30,
+          "done": true
+        },
+        {
+          "id": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
+          "task": "Short tasks",
           "dur": 30
         }
       ]
