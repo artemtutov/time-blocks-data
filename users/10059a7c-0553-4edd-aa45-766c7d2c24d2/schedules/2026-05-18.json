@@ -23,13 +23,13 @@
           "done": true
         },
         {
-          "id": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
-          "task": "Short tasks",
+          "id": "87a21cd7-db20-4910-8a52-4f2a3e8c7d0c",
+          "task": "Break",
           "dur": 30
         },
         {
-          "id": "87a21cd7-db20-4910-8a52-4f2a3e8c7d0c",
-          "task": "Break",
+          "id": "2161e79e-7ccf-4b69-be57-4db6a2f1a348",
+          "task": "Short tasks",
           "dur": 30
         }
       ]
