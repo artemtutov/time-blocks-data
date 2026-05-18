@@ -24,5 +24,16 @@
     "dayDate": "2026-05-18",
     "createdAt": 1779105887555,
     "updatedAt": 1779105947322
+  },
+  {
+    "id": "8e7bd55e-9ae9-45e9-b935-113034e5b848",
+    "title": "",
+    "items": [],
+    "color": null,
+    "inMemory": false,
+    "laneId": null,
+    "dayDate": "2026-05-18",
+    "createdAt": 1779106069074,
+    "updatedAt": 1779106069074
   }
 ]
