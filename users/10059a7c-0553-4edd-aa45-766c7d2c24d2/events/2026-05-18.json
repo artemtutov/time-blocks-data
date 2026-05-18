@@ -68,5 +68,13 @@
     "before": "",
     "after": "Ask Amit",
     "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
+  },
+  {
+    "ts": 1779095143350,
+    "date": "2026-05-18",
+    "type": "zone_start_changed",
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66",
+    "before": "09:00",
+    "after": "10:30"
   }
 ]
