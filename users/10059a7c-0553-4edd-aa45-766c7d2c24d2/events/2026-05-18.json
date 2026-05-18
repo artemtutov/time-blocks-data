@@ -124,5 +124,15 @@
     "dur": 30,
     "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66",
     "index": 4
+  },
+  {
+    "ts": 1779104954742,
+    "date": "2026-05-18",
+    "type": "task_edited",
+    "taskId": "87a21cd7-db20-4910-8a52-4f2a3e8c7d0c",
+    "field": "task",
+    "before": "",
+    "after": "Break",
+    "zoneId": "eed95505-e1fe-48f9-840a-7b508f5e6e66"
   }
 ]
