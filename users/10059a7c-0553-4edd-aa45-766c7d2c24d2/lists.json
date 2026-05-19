@@ -35,13 +35,20 @@
         "checked": false,
         "checkable": false,
         "addedAt": 1779106073290
+      },
+      {
+        "id": "d86d75d0-2287-44a7-a4f8-2ab7b6c23fa8",
+        "text": "",
+        "checked": false,
+        "checkable": false,
+        "addedAt": 1779181737949
       }
     ],
     "color": null,
-    "inMemory": true,
-    "laneId": "unsorted",
+    "inMemory": false,
+    "laneId": null,
     "dayDate": "2026-05-18",
     "createdAt": 1779106069074,
-    "updatedAt": 1779181693333
+    "updatedAt": 1779181737950
   }
 ]
