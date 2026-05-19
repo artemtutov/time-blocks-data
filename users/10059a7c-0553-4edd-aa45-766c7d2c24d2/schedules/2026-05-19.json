@@ -17,6 +17,18 @@
           "questId": null
         }
       ]
+    },
+    {
+      "id": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6",
+      "start": "17:00",
+      "rows": [
+        {
+          "id": "0688c26b-1e25-49ba-bc41-61a9c6f43b8e",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        }
+      ]
     }
   ]
 }
