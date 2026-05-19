@@ -53,5 +53,33 @@
     "type": "zone_added",
     "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6",
     "start": "12:00"
+  },
+  {
+    "ts": 1779182130165,
+    "date": "2026-05-19",
+    "type": "zone_start_changed",
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6",
+    "before": "12:00",
+    "after": "17:00"
+  },
+  {
+    "ts": 1779182136380,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "0688c26b-1e25-49ba-bc41-61a9c6f43b8e",
+    "field": "task",
+    "before": "",
+    "after": "Lev",
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6"
+  },
+  {
+    "ts": 1779182136475,
+    "date": "2026-05-19",
+    "type": "task_added",
+    "taskId": "4fc6909a-2066-48eb-b3a5-7d51dddc6963",
+    "task": "",
+    "dur": 30,
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc",
+    "index": 2
   }
 ]
