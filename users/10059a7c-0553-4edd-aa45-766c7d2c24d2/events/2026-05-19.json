@@ -160,5 +160,34 @@
     "dur": 30,
     "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6",
     "index": 2
+  },
+  {
+    "ts": 1779182167683,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "3a293f12-995b-4ae6-adf5-75c2714f5a96",
+    "field": "task",
+    "before": "",
+    "after": "Korean movie",
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6"
+  },
+  {
+    "ts": 1779182167763,
+    "date": "2026-05-19",
+    "type": "task_added",
+    "taskId": "bb510b2b-5a27-4141-8740-233e9aa0f65d",
+    "task": "",
+    "dur": 30,
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6",
+    "index": 3
+  },
+  {
+    "ts": 1779182169525,
+    "date": "2026-05-19",
+    "type": "task_moved",
+    "taskId": "bb510b2b-5a27-4141-8740-233e9aa0f65d",
+    "from": 3,
+    "to": 2,
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6"
   }
 ]
