@@ -91,5 +91,34 @@
     "before": "",
     "after": "Luncgh",
     "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
+  },
+  {
+    "ts": 1779182143327,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "4fc6909a-2066-48eb-b3a5-7d51dddc6963",
+    "field": "task",
+    "before": "Luncgh",
+    "after": "Lunch",
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
+  },
+  {
+    "ts": 1779182144261,
+    "date": "2026-05-19",
+    "type": "task_added",
+    "taskId": "c2f026b2-02de-4716-9b23-a4092045b869",
+    "task": "",
+    "dur": 30,
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc",
+    "index": 3
+  },
+  {
+    "ts": 1779182145665,
+    "date": "2026-05-19",
+    "type": "task_moved",
+    "taskId": "c2f026b2-02de-4716-9b23-a4092045b869",
+    "from": 3,
+    "to": 2,
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
   }
 ]
