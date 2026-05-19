@@ -36,13 +36,13 @@
       "rows": [
         {
           "id": "0688c26b-1e25-49ba-bc41-61a9c6f43b8e",
-          "task": "Lev",
+          "task": "Middlemarch",
           "dur": 30,
           "questId": null
         },
         {
           "id": "7953803b-c025-4d23-9a5e-79790ca4a062",
-          "task": "",
+          "task": "Lev",
           "dur": 30,
           "questId": null
         }
