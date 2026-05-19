@@ -45,7 +45,7 @@
       },
       {
         "id": "0146efca-09b0-4b81-a81d-b7836ac13a55",
-        "text": "Abundance",
+        "text": "Abundance / Slow down",
         "checked": false,
         "checkable": false,
         "addedAt": 1779181753693
@@ -63,6 +63,6 @@
     "laneId": null,
     "dayDate": "2026-05-18",
     "createdAt": 1779106069074,
-    "updatedAt": 1779181764870
+    "updatedAt": 1779181777140
   }
 ]
