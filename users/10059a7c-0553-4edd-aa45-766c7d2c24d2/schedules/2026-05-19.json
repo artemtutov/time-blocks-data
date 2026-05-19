@@ -15,6 +15,12 @@
           "task": "Short tasks",
           "dur": 30,
           "questId": null
+        },
+        {
+          "id": "4fc6909a-2066-48eb-b3a5-7d51dddc6963",
+          "task": "Luncgh",
+          "dur": 30,
+          "questId": null
         }
       ]
     },
