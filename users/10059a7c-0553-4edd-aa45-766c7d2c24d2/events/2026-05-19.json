@@ -199,5 +199,40 @@
     "before": "",
     "after": "Bloomberg",
     "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6"
+  },
+  {
+    "ts": 1779182181784,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "3a293f12-995b-4ae6-adf5-75c2714f5a96",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6"
+  },
+  {
+    "ts": 1779182186118,
+    "date": "2026-05-19",
+    "type": "zone_added",
+    "zoneId": "f54183fa-bf67-425f-bc8b-287de40f1dd9",
+    "start": "19:30"
+  },
+  {
+    "ts": 1779182188530,
+    "date": "2026-05-19",
+    "type": "zone_start_changed",
+    "zoneId": "f54183fa-bf67-425f-bc8b-287de40f1dd9",
+    "before": "19:30",
+    "after": "22:00"
+  },
+  {
+    "ts": 1779182199081,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "a4907962-cc59-4d42-bc35-2b5d5d07a320",
+    "field": "task",
+    "before": "",
+    "after": "Getting to royal bed",
+    "zoneId": "f54183fa-bf67-425f-bc8b-287de40f1dd9"
   }
 ]
