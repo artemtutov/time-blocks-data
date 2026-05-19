@@ -8,7 +8,8 @@
           "id": "30015e25-8481-411f-b69c-177a109e4327",
           "task": "Adriana Env Task",
           "dur": 90,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "cddf25f6-8f66-484b-bb4d-1dbfe997d2b5",
