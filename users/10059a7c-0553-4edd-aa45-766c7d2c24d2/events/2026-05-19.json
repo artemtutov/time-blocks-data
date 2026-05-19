@@ -1,0 +1,20 @@
+[
+  {
+    "ts": 1779181700262,
+    "date": "2026-05-19",
+    "type": "zone_start_changed",
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc",
+    "before": "09:00",
+    "after": "10:00"
+  },
+  {
+    "ts": 1779181716053,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "30015e25-8481-411f-b69c-177a109e4327",
+    "field": "task",
+    "before": "",
+    "after": "Adriana Env Task",
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
+  }
+]
