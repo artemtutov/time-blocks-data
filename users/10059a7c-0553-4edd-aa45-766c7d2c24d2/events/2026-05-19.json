@@ -46,5 +46,12 @@
     "before": "",
     "after": "Short tasks",
     "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
+  },
+  {
+    "ts": 1779181869679,
+    "date": "2026-05-19",
+    "type": "zone_added",
+    "zoneId": "ea4dcffb-6afe-4e2f-9419-5be39349c6f6",
+    "start": "12:00"
   }
 ]
