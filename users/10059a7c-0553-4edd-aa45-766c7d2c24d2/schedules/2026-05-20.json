@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "id": "6039a3fb-c851-406c-b3fa-bf16917e14b7",
+      "start": "09:00",
+      "rows": [
+        {
+          "id": "0205c8f9-65f9-42a7-acd7-d11a9932d703",
+          "task": "Submit timesheet",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    }
+  ]
+}
