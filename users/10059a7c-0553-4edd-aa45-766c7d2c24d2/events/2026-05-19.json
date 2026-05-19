@@ -16,5 +16,25 @@
     "before": "",
     "after": "Adriana Env Task",
     "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
+  },
+  {
+    "ts": 1779181720198,
+    "date": "2026-05-19",
+    "type": "task_edited",
+    "taskId": "30015e25-8481-411f-b69c-177a109e4327",
+    "field": "dur",
+    "before": 30,
+    "after": 90,
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc"
+  },
+  {
+    "ts": 1779181721413,
+    "date": "2026-05-19",
+    "type": "task_added",
+    "taskId": "cddf25f6-8f66-484b-bb4d-1dbfe997d2b5",
+    "task": "",
+    "dur": 30,
+    "zoneId": "4feb9418-a4bf-44d0-a065-7d431fe29bbc",
+    "index": 1
   }
 ]
