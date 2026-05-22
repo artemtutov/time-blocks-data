@@ -153,5 +153,25 @@
     "noteTitle": "Task 25",
     "dayDate": "2026-05-22",
     "text": "redo prompt"
+  },
+  {
+    "ts": 1779464807933,
+    "date": "2026-05-22",
+    "type": "note_item_checked",
+    "listId": "27fbfc0f-4b25-4120-a461-1db6cf976e6b",
+    "itemId": "e47dd8c1-3c27-413d-ba8f-2f89d005e8bb",
+    "noteTitle": "Task 25",
+    "dayDate": "2026-05-22",
+    "text": "Rashid rubric"
+  },
+  {
+    "ts": 1779467529044,
+    "date": "2026-05-22",
+    "type": "note_item_checked",
+    "listId": "27fbfc0f-4b25-4120-a461-1db6cf976e6b",
+    "itemId": "374ba6e3-72fd-44a6-9be1-89f210f6fd27",
+    "noteTitle": "Task 25",
+    "dayDate": "2026-05-22",
+    "text": "grade"
   }
 ]
