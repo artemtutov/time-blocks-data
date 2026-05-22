@@ -73,7 +73,7 @@
       {
         "id": "6014306e-0b16-4773-942c-612f72da3ac4",
         "text": "redo prompt",
-        "checked": false,
+        "checked": true,
         "checkable": true,
         "addedAt": 1779455643613
       },
@@ -87,7 +87,7 @@
       {
         "id": "e47dd8c1-3c27-413d-ba8f-2f89d005e8bb",
         "text": "Rashid rubric",
-        "checked": false,
+        "checked": true,
         "checkable": true,
         "addedAt": 1779455654871
       },
@@ -107,7 +107,7 @@
       },
       {
         "id": "24113797-2282-4a38-a222-7d4603a87df7",
-        "text": "",
+        "text": "connect to Consolidated",
         "checked": false,
         "checkable": true,
         "addedAt": 1779455766966
@@ -118,6 +118,6 @@
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455768175
+    "updatedAt": 1779464807933
   }
 ]
