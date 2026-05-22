@@ -79,10 +79,17 @@
       },
       {
         "id": "a057c020-ffc0-4638-9613-3e703b280cb6",
-        "text": "",
+        "text": "rerun LLM",
         "checked": false,
         "checkable": true,
         "addedAt": 1779455649349
+      },
+      {
+        "id": "e47dd8c1-3c27-413d-ba8f-2f89d005e8bb",
+        "text": "",
+        "checked": false,
+        "checkable": true,
+        "addedAt": 1779455654871
       }
     ],
     "color": null,
@@ -90,6 +97,6 @@
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455650640
+    "updatedAt": 1779455656050
   }
 ]
