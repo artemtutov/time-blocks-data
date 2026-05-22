@@ -86,10 +86,17 @@
       },
       {
         "id": "e47dd8c1-3c27-413d-ba8f-2f89d005e8bb",
-        "text": "",
+        "text": "Rashid rubric",
         "checked": false,
         "checkable": true,
         "addedAt": 1779455654871
+      },
+      {
+        "id": "374ba6e3-72fd-44a6-9be1-89f210f6fd27",
+        "text": "",
+        "checked": false,
+        "checkable": true,
+        "addedAt": 1779455665847
       }
     ],
     "color": null,
@@ -97,6 +104,6 @@
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455656050
+    "updatedAt": 1779455667037
   }
 ]
