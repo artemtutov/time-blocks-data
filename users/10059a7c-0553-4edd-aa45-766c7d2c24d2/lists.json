@@ -68,13 +68,21 @@
   },
   {
     "id": "27fbfc0f-4b25-4120-a461-1db6cf976e6b",
-    "title": "",
-    "items": [],
+    "title": "Task 25",
+    "items": [
+      {
+        "id": "6014306e-0b16-4773-942c-612f72da3ac4",
+        "text": "",
+        "checked": false,
+        "checkable": true,
+        "addedAt": 1779455643613
+      }
+    ],
     "color": null,
     "inMemory": false,
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455637574
+    "updatedAt": 1779455644962
   }
 ]
