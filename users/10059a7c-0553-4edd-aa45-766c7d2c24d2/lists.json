@@ -100,7 +100,7 @@
       },
       {
         "id": "cd892148-4776-405e-a64b-f4adcdebb787",
-        "text": "",
+        "text": "adriana pipeline",
         "checked": false,
         "checkable": true,
         "addedAt": 1779455669415
@@ -111,6 +111,6 @@
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455673526
+    "updatedAt": 1779455697347
   }
 ]
