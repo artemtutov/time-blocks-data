@@ -93,10 +93,17 @@
       },
       {
         "id": "374ba6e3-72fd-44a6-9be1-89f210f6fd27",
-        "text": "",
+        "text": "grade",
         "checked": false,
         "checkable": true,
         "addedAt": 1779455665847
+      },
+      {
+        "id": "cd892148-4776-405e-a64b-f4adcdebb787",
+        "text": "",
+        "checked": false,
+        "checkable": false,
+        "addedAt": 1779455669415
       }
     ],
     "color": null,
@@ -104,6 +111,6 @@
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455667037
+    "updatedAt": 1779455669415
   }
 ]
