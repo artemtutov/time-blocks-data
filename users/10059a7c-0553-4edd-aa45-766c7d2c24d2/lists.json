@@ -72,10 +72,17 @@
     "items": [
       {
         "id": "6014306e-0b16-4773-942c-612f72da3ac4",
-        "text": "",
+        "text": "redo prompt",
         "checked": false,
         "checkable": true,
         "addedAt": 1779455643613
+      },
+      {
+        "id": "a057c020-ffc0-4638-9613-3e703b280cb6",
+        "text": "",
+        "checked": false,
+        "checkable": true,
+        "addedAt": 1779455649349
       }
     ],
     "color": null,
@@ -83,6 +90,6 @@
     "laneId": null,
     "dayDate": "2026-05-22",
     "createdAt": 1779455637574,
-    "updatedAt": 1779455644962
+    "updatedAt": 1779455650640
   }
 ]
