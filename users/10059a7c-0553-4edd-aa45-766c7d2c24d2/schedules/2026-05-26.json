@@ -6,6 +6,12 @@
       "rows": [
         {
           "id": "a24da2d2-35b2-4b95-b9bf-2c01221f7fb6",
+          "task": "Grading",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "1f20ad38-9f0b-4ca7-b9ea-9102d97817ac",
           "task": "",
           "dur": 30,
           "questId": null
