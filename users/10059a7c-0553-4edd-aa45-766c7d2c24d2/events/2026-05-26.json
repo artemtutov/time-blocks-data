@@ -1,0 +1,40 @@
+[
+  {
+    "ts": 1779809327587,
+    "date": "2026-05-26",
+    "type": "zone_start_changed",
+    "zoneId": "f0dd11d9-9b4f-4cf5-9a49-0e640832890b",
+    "before": "09:00",
+    "after": "16:30"
+  },
+  {
+    "ts": 1779809332526,
+    "date": "2026-05-26",
+    "type": "task_edited",
+    "taskId": "a24da2d2-35b2-4b95-b9bf-2c01221f7fb6",
+    "field": "task",
+    "before": "",
+    "after": "Grading",
+    "zoneId": "f0dd11d9-9b4f-4cf5-9a49-0e640832890b"
+  },
+  {
+    "ts": 1779809332527,
+    "date": "2026-05-26",
+    "type": "task_added",
+    "taskId": "1f20ad38-9f0b-4ca7-b9ea-9102d97817ac",
+    "task": "",
+    "dur": 30,
+    "zoneId": "f0dd11d9-9b4f-4cf5-9a49-0e640832890b",
+    "index": 1
+  },
+  {
+    "ts": 1779809344263,
+    "date": "2026-05-26",
+    "type": "task_edited",
+    "taskId": "1f20ad38-9f0b-4ca7-b9ea-9102d97817ac",
+    "field": "task",
+    "before": "",
+    "after": "new task",
+    "zoneId": "f0dd11d9-9b4f-4cf5-9a49-0e640832890b"
+  }
+]
