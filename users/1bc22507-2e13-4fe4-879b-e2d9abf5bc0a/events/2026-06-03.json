@@ -24,5 +24,13 @@
     "taskId": "647a62a0-fc05-4f28-82e3-319bbf45c786",
     "dur": 30,
     "zoneId": "3e9b1bec-3b94-421b-ba31-ed66834b3299"
+  },
+  {
+    "ts": 1780479458494,
+    "date": "2026-06-03",
+    "type": "task_started",
+    "taskId": "647a62a0-fc05-4f28-82e3-319bbf45c786",
+    "dur": 30,
+    "zoneId": "3e9b1bec-3b94-421b-ba31-ed66834b3299"
   }
 ]
