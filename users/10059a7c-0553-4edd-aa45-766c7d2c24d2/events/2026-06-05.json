@@ -86,5 +86,35 @@
     "dur": 30,
     "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567",
     "index": 3
+  },
+  {
+    "ts": 1780652350957,
+    "date": "2026-06-05",
+    "type": "task_edited",
+    "taskId": "1474ad40-c60c-4c01-b46a-0557a62c40be",
+    "field": "task",
+    "before": "",
+    "after": "grade &v summary",
+    "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567"
+  },
+  {
+    "ts": 1780652350958,
+    "date": "2026-06-05",
+    "type": "task_added",
+    "taskId": "c8c36f35-b710-4066-ad85-47ef41442159",
+    "task": "",
+    "dur": 30,
+    "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567",
+    "index": 4
+  },
+  {
+    "ts": 1780652691143,
+    "date": "2026-06-05",
+    "type": "task_edited",
+    "taskId": "e40fb971-4155-46b5-b367-f028c110d5e4",
+    "field": "task",
+    "before": "run both",
+    "after": "Prompt & run both",
+    "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567"
   }
 ]
