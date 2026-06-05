@@ -66,5 +66,25 @@
     "before": "do a model",
     "after": "do a clean model",
     "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567"
+  },
+  {
+    "ts": 1780652343295,
+    "date": "2026-06-05",
+    "type": "task_edited",
+    "taskId": "e40fb971-4155-46b5-b367-f028c110d5e4",
+    "field": "task",
+    "before": "",
+    "after": "run both",
+    "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567"
+  },
+  {
+    "ts": 1780652343296,
+    "date": "2026-06-05",
+    "type": "task_added",
+    "taskId": "1474ad40-c60c-4c01-b46a-0557a62c40be",
+    "task": "",
+    "dur": 30,
+    "zoneId": "a0c75c13-ba5e-4416-aaa6-86a591c25567",
+    "index": 3
   }
 ]
