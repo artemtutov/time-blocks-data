@@ -11,10 +11,18 @@
           "questId": null
         },
         {
+          "id": "d428769f-ac4c-4820-89dd-dfdb21fc6df9",
+          "task": "summary",
+          "dur": 30,
+          "questId": null,
+          "done": true
+        },
+        {
           "id": "2c740faf-1a92-4b4c-85fe-642f630acdbf",
           "task": "do a clean model",
           "dur": 30,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "e40fb971-4155-46b5-b367-f028c110d5e4",
