@@ -46,11 +46,11 @@
     },
     {
       "id": "f4e83ec2-f794-435a-8f45-382203a16180",
-      "start": "15:30",
+      "start": "17:00",
       "rows": [
         {
           "id": "817203e5-2a88-4645-98a2-2292cca03f05",
-          "task": "",
+          "task": "fix linter ",
           "dur": 30,
           "questId": null
         }
