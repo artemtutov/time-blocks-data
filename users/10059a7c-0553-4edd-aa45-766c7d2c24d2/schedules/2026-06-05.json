@@ -50,7 +50,7 @@
       "rows": [
         {
           "id": "817203e5-2a88-4645-98a2-2292cca03f05",
-          "task": "fix linter ",
+          "task": "fix linter rubrics",
           "dur": 30,
           "questId": null
         }
