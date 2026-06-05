@@ -5,12 +5,6 @@
       "start": "11:30",
       "rows": [
         {
-          "id": "e46d6ef8-7745-4bfa-a20b-eefbd9b1d476",
-          "task": "create a rubric",
-          "dur": 60,
-          "questId": null
-        },
-        {
           "id": "d428769f-ac4c-4820-89dd-dfdb21fc6df9",
           "task": "summary",
           "dur": 30,
@@ -23,6 +17,12 @@
           "dur": 30,
           "questId": null,
           "done": true
+        },
+        {
+          "id": "e46d6ef8-7745-4bfa-a20b-eefbd9b1d476",
+          "task": "create a rubric",
+          "dur": 60,
+          "questId": null
         },
         {
           "id": "e40fb971-4155-46b5-b367-f028c110d5e4",
