@@ -214,5 +214,15 @@
     "zoneId": "f4e83ec2-f794-435a-8f45-382203a16180",
     "before": "15:30",
     "after": "17:00"
+  },
+  {
+    "ts": 1780663440088,
+    "date": "2026-06-05",
+    "type": "task_edited",
+    "taskId": "817203e5-2a88-4645-98a2-2292cca03f05",
+    "field": "task",
+    "before": "",
+    "after": "fix linter rubrics",
+    "zoneId": "f4e83ec2-f794-435a-8f45-382203a16180"
   }
 ]
