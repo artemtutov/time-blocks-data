@@ -30,7 +30,7 @@
         },
         {
           "id": "6defc001-34ed-4b3c-b1a6-27d40e78ee12",
-          "task": "",
+          "task": "run models",
           "dur": 30,
           "questId": null
         }
