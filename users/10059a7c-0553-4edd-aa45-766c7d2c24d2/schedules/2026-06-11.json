@@ -47,6 +47,12 @@
           "task": "Update SF",
           "dur": 30,
           "questId": null
+        },
+        {
+          "id": "6614b5dd-6d53-4597-b090-9102e339d548",
+          "task": "waste",
+          "dur": 30,
+          "questId": null
         }
       ]
     }
