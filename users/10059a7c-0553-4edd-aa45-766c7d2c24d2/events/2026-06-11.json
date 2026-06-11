@@ -170,5 +170,24 @@
     "type": "task_completed",
     "taskId": "eea09511-2c00-4658-a9da-b971be26ed24",
     "zoneId": "bd79cb36-3516-4a79-ac14-0c7e08e67324"
+  },
+  {
+    "ts": 1781174676176,
+    "date": "2026-06-11",
+    "type": "task_moved",
+    "taskId": "bef0d178-74ca-4766-88ae-348053a557d5",
+    "from": 5,
+    "to": 2,
+    "zoneId": "bd79cb36-3516-4a79-ac14-0c7e08e67324"
+  },
+  {
+    "ts": 1781184701615,
+    "date": "2026-06-11",
+    "type": "task_added",
+    "taskId": "6614b5dd-6d53-4597-b090-9102e339d548",
+    "task": "",
+    "dur": 30,
+    "zoneId": "bd79cb36-3516-4a79-ac14-0c7e08e67324",
+    "index": 7
   }
 ]
