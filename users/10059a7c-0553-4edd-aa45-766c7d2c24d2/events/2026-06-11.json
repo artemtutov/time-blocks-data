@@ -6,5 +6,25 @@
     "zoneId": "bd79cb36-3516-4a79-ac14-0c7e08e67324",
     "before": "09:00",
     "after": "10:30"
+  },
+  {
+    "ts": 1781170211839,
+    "date": "2026-06-11",
+    "type": "task_edited",
+    "taskId": "eea09511-2c00-4658-a9da-b971be26ed24",
+    "field": "task",
+    "before": "",
+    "after": "coffee",
+    "zoneId": "bd79cb36-3516-4a79-ac14-0c7e08e67324"
+  },
+  {
+    "ts": 1781170211839,
+    "date": "2026-06-11",
+    "type": "task_added",
+    "taskId": "6f0401bc-18ff-4cb8-b25b-c93a324ccd4a",
+    "task": "",
+    "dur": 30,
+    "zoneId": "bd79cb36-3516-4a79-ac14-0c7e08e67324",
+    "index": 1
   }
 ]
