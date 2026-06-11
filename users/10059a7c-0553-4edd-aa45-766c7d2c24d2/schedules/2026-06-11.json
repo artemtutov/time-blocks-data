@@ -25,6 +25,12 @@
           "questId": null
         },
         {
+          "id": "6614b5dd-6d53-4597-b090-9102e339d548",
+          "task": "waste",
+          "dur": 30,
+          "questId": null
+        },
+        {
           "id": "985a92a5-b6fc-4da3-91c9-7f97e94502c9",
           "task": "do rubric",
           "dur": 90,
@@ -45,12 +51,6 @@
         {
           "id": "0ea267c8-001b-4f3f-b25a-cf3aa124a345",
           "task": "Update SF",
-          "dur": 30,
-          "questId": null
-        },
-        {
-          "id": "6614b5dd-6d53-4597-b090-9102e339d548",
-          "task": "waste",
           "dur": 30,
           "questId": null
         }
