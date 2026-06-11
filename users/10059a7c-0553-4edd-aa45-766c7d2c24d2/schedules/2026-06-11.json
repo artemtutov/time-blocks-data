@@ -39,6 +39,12 @@
           "task": "fix task",
           "dur": 30,
           "questId": null
+        },
+        {
+          "id": "0ea267c8-001b-4f3f-b25a-cf3aa124a345",
+          "task": "Update SF",
+          "dur": 30,
+          "questId": null
         }
       ]
     }
