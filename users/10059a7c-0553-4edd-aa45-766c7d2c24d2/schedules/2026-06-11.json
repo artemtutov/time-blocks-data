@@ -33,6 +33,12 @@
           "task": "run models",
           "dur": 30,
           "questId": null
+        },
+        {
+          "id": "bef0d178-74ca-4766-88ae-348053a557d5",
+          "task": "fix task",
+          "dur": 30,
+          "questId": null
         }
       ]
     }
