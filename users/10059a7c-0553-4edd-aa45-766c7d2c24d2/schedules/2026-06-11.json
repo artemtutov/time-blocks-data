@@ -1,0 +1,40 @@
+{
+  "zones": [
+    {
+      "id": "bd79cb36-3516-4a79-ac14-0c7e08e67324",
+      "start": "10:30",
+      "rows": [
+        {
+          "id": "eea09511-2c00-4658-a9da-b971be26ed24",
+          "task": "coffee",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "6f0401bc-18ff-4cb8-b25b-c93a324ccd4a",
+          "task": "choose task",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "985a92a5-b6fc-4da3-91c9-7f97e94502c9",
+          "task": "do rubric",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "f411bdf3-667c-4fb7-b4b5-10f75a60c655",
+          "task": "prompt",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "6defc001-34ed-4b3c-b1a6-27d40e78ee12",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    }
+  ]
+}
