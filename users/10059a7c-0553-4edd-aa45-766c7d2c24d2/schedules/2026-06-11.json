@@ -8,12 +8,20 @@
           "id": "eea09511-2c00-4658-a9da-b971be26ed24",
           "task": "coffee",
           "dur": 30,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "6f0401bc-18ff-4cb8-b25b-c93a324ccd4a",
           "task": "choose task",
           "dur": 60,
+          "questId": null,
+          "done": true
+        },
+        {
+          "id": "bef0d178-74ca-4766-88ae-348053a557d5",
+          "task": "fix task",
+          "dur": 30,
           "questId": null
         },
         {
@@ -31,12 +39,6 @@
         {
           "id": "6defc001-34ed-4b3c-b1a6-27d40e78ee12",
           "task": "run models",
-          "dur": 30,
-          "questId": null
-        },
-        {
-          "id": "bef0d178-74ca-4766-88ae-348053a557d5",
-          "task": "fix task",
           "dur": 30,
           "questId": null
         },
