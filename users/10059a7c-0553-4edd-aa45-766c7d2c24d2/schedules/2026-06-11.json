@@ -22,19 +22,22 @@
           "id": "bef0d178-74ca-4766-88ae-348053a557d5",
           "task": "fix task",
           "dur": 30,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "6614b5dd-6d53-4597-b090-9102e339d548",
           "task": "waste",
           "dur": 120,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "985a92a5-b6fc-4da3-91c9-7f97e94502c9",
           "task": "do rubric",
           "dur": 90,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "f411bdf3-667c-4fb7-b4b5-10f75a60c655",
