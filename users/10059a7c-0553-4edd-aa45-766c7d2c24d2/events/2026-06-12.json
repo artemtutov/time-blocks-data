@@ -139,5 +139,35 @@
     "zoneId": "5efa4f9a-6e26-40f2-814c-93b91a9574e8",
     "before": "14:30",
     "after": "17:00"
+  },
+  {
+    "ts": 1781262893263,
+    "date": "2026-06-12",
+    "type": "task_edited",
+    "taskId": "0378bd65-cb9b-42d6-ae87-4551f3c98aba",
+    "field": "task",
+    "before": "",
+    "after": "Lunch",
+    "zoneId": "5efa4f9a-6e26-40f2-814c-93b91a9574e8"
+  },
+  {
+    "ts": 1781262893264,
+    "date": "2026-06-12",
+    "type": "task_added",
+    "taskId": "ec884b3c-4074-405f-886a-0ec255cab1a2",
+    "task": "",
+    "dur": 30,
+    "zoneId": "5efa4f9a-6e26-40f2-814c-93b91a9574e8",
+    "index": 1
+  },
+  {
+    "ts": 1781262904338,
+    "date": "2026-06-12",
+    "type": "task_edited",
+    "taskId": "ec884b3c-4074-405f-886a-0ec255cab1a2",
+    "field": "task",
+    "before": "",
+    "after": "Populate starfleet",
+    "zoneId": "5efa4f9a-6e26-40f2-814c-93b91a9574e8"
   }
 ]
