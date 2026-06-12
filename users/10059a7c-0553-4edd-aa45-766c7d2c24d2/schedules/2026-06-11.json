@@ -43,7 +43,8 @@
           "id": "f411bdf3-667c-4fb7-b4b5-10f75a60c655",
           "task": "prompt",
           "dur": 30,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "6defc001-34ed-4b3c-b1a6-27d40e78ee12",
