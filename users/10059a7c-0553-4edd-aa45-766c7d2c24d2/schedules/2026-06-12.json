@@ -32,10 +32,16 @@
     },
     {
       "id": "5efa4f9a-6e26-40f2-814c-93b91a9574e8",
-      "start": "14:30",
+      "start": "17:00",
       "rows": [
         {
           "id": "0378bd65-cb9b-42d6-ae87-4551f3c98aba",
+          "task": "Lunch",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "ec884b3c-4074-405f-886a-0ec255cab1a2",
           "task": "",
           "dur": 30,
           "questId": null
