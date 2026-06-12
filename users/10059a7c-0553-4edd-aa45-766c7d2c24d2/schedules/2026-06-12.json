@@ -7,12 +7,12 @@
         {
           "id": "31ff2b99-0e2c-454f-b70f-360bc7078411",
           "task": "finish rubric",
-          "dur": 30,
+          "dur": 60,
           "questId": null
         },
         {
           "id": "dfe0eddd-3f01-490c-a694-d78f4ff69bd3",
-          "task": "run model",
+          "task": "run models",
           "dur": 30,
           "questId": null
         },
