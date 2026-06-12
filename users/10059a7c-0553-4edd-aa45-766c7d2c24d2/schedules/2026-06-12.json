@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "id": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48",
+      "start": "12:00",
+      "rows": [
+        {
+          "id": "31ff2b99-0e2c-454f-b70f-360bc7078411",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    }
+  ]
+}
