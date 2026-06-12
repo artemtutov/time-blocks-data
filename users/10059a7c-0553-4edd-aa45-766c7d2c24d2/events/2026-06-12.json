@@ -16,5 +16,25 @@
     "before": "",
     "after": "finish ",
     "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48"
+  },
+  {
+    "ts": 1781261989382,
+    "date": "2026-06-12",
+    "type": "task_edited",
+    "taskId": "31ff2b99-0e2c-454f-b70f-360bc7078411",
+    "field": "task",
+    "before": "finish ",
+    "after": "finish rubric",
+    "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48"
+  },
+  {
+    "ts": 1781261989382,
+    "date": "2026-06-12",
+    "type": "task_added",
+    "taskId": "a99a305f-5763-4909-8bb0-ea5bb57458ec",
+    "task": "",
+    "dur": 30,
+    "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48",
+    "index": 1
   }
 ]
