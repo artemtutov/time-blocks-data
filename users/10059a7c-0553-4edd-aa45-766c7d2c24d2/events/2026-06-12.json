@@ -1,0 +1,20 @@
+[
+  {
+    "ts": 1781261707356,
+    "date": "2026-06-12",
+    "type": "zone_start_changed",
+    "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48",
+    "before": "09:00",
+    "after": "12:00"
+  },
+  {
+    "ts": 1781261711906,
+    "date": "2026-06-12",
+    "type": "task_edited",
+    "taskId": "31ff2b99-0e2c-454f-b70f-360bc7078411",
+    "field": "task",
+    "before": "",
+    "after": "finish ",
+    "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48"
+  }
+]
