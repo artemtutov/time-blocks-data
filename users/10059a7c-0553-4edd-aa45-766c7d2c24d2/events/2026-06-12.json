@@ -86,5 +86,15 @@
     "before": "",
     "after": "grade",
     "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48"
+  },
+  {
+    "ts": 1781262868965,
+    "date": "2026-06-12",
+    "type": "task_edited",
+    "taskId": "31ff2b99-0e2c-454f-b70f-360bc7078411",
+    "field": "dur",
+    "before": 30,
+    "after": 60,
+    "zoneId": "aeb0c5b6-a9e5-4391-92fb-5cc1575d2f48"
   }
 ]
