@@ -1,0 +1,34 @@
+{
+  "zones": [
+    {
+      "id": "5b6675a9-4792-473c-a914-d2c1f6a737b3",
+      "start": "13:40",
+      "rows": [
+        {
+          "id": "2cdd69bd-f67a-4ff0-8290-1078597ad532",
+          "task": "finish the rubric",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "8244dff3-aa37-4d8b-92fa-e4541dbb8c79",
+          "task": "port model",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "7f02d17a-9647-4812-80e7-318b0fb5c1c8",
+          "task": "run",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "2ed83849-5c27-4c79-a93f-25ee2d38952e",
+          "task": "",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    }
+  ]
+}
