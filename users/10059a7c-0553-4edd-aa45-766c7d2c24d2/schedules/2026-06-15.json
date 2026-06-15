@@ -24,7 +24,13 @@
         },
         {
           "id": "2ed83849-5c27-4c79-a93f-25ee2d38952e",
-          "task": "",
+          "task": "grade",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "394c1e5e-0c9f-4997-b2cb-8efc090bde6b",
+          "task": "summary",
           "dur": 30,
           "questId": null
         }
