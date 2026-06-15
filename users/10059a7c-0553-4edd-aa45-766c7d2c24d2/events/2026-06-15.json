@@ -6,5 +6,25 @@
     "zoneId": "5b6675a9-4792-473c-a914-d2c1f6a737b3",
     "before": "09:00",
     "after": "13:40"
+  },
+  {
+    "ts": 1781527238157,
+    "date": "2026-06-15",
+    "type": "task_edited",
+    "taskId": "2cdd69bd-f67a-4ff0-8290-1078597ad532",
+    "field": "task",
+    "before": "",
+    "after": "finish the rubric",
+    "zoneId": "5b6675a9-4792-473c-a914-d2c1f6a737b3"
+  },
+  {
+    "ts": 1781527238157,
+    "date": "2026-06-15",
+    "type": "task_added",
+    "taskId": "8244dff3-aa37-4d8b-92fa-e4541dbb8c79",
+    "task": "",
+    "dur": 30,
+    "zoneId": "5b6675a9-4792-473c-a914-d2c1f6a737b3",
+    "index": 1
   }
 ]
