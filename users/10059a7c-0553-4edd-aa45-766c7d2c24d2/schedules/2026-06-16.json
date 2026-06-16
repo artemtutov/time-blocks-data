@@ -22,7 +22,8 @@
           "id": "08028e96-4cc1-4f17-8e58-94e4e6dffdae",
           "task": "Run the models",
           "dur": 30,
-          "questId": null
+          "questId": null,
+          "done": true
         },
         {
           "id": "fc4996ce-255d-4d18-8935-c67d15e5012a",
