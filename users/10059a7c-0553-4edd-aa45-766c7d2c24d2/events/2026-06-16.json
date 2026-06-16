@@ -56,5 +56,24 @@
     "dur": 30,
     "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f",
     "index": 2
+  },
+  {
+    "ts": 1781605055203,
+    "date": "2026-06-16",
+    "type": "task_edited",
+    "taskId": "bfc076c0-6f5e-477d-8a62-25bfac20bbd1",
+    "field": "task",
+    "before": "",
+    "after": "Grade the model",
+    "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f"
+  },
+  {
+    "ts": 1781605056117,
+    "date": "2026-06-16",
+    "type": "task_moved",
+    "taskId": "bfc076c0-6f5e-477d-8a62-25bfac20bbd1",
+    "from": 2,
+    "to": 1,
+    "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f"
   }
 ]
