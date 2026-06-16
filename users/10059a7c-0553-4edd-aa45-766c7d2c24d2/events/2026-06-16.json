@@ -6,5 +6,15 @@
     "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f",
     "before": "09:00",
     "after": "11:00"
+  },
+  {
+    "ts": 1781604856480,
+    "date": "2026-06-16",
+    "type": "task_edited",
+    "taskId": "fde8549e-3938-4dda-bb10-f0f90a15aa92",
+    "field": "task",
+    "before": "",
+    "after": "Finish rubric",
+    "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f"
   }
 ]
