@@ -1,0 +1,16 @@
+{
+  "zones": [
+    {
+      "id": "6d599175-08e6-4ae6-b874-5163beb13e6f",
+      "start": "11:00",
+      "rows": [
+        {
+          "id": "fde8549e-3938-4dda-bb10-f0f90a15aa92",
+          "task": "Finish rubric",
+          "dur": 30,
+          "questId": null
+        }
+      ]
+    }
+  ]
+}
