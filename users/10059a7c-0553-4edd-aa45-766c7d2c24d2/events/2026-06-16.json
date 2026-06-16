@@ -26,5 +26,15 @@
     "before": 30,
     "after": 60,
     "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f"
+  },
+  {
+    "ts": 1781605044091,
+    "date": "2026-06-16",
+    "type": "task_added",
+    "taskId": "08028e96-4cc1-4f17-8e58-94e4e6dffdae",
+    "task": "",
+    "dur": 30,
+    "zoneId": "6d599175-08e6-4ae6-b874-5163beb13e6f",
+    "index": 1
   }
 ]
