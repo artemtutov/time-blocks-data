@@ -7,6 +7,18 @@
         {
           "id": "fde8549e-3938-4dda-bb10-f0f90a15aa92",
           "task": "Finish rubric",
+          "dur": 60,
+          "questId": null
+        },
+        {
+          "id": "08028e96-4cc1-4f17-8e58-94e4e6dffdae",
+          "task": "Run the models",
+          "dur": 30,
+          "questId": null
+        },
+        {
+          "id": "bfc076c0-6f5e-477d-8a62-25bfac20bbd1",
+          "task": "Grade the model",
           "dur": 30,
           "questId": null
         }
